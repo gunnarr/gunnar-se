@@ -7,6 +7,81 @@
 	"items": [
 		
 			{
+				"id": "http://g.micro.blog/2022/04/08/still-stuck-in.html",
+				
+				"content_html": "<p>Still stuck in this year.  <a href=\"https://www.classicpopmag.com/2022/04/the-story-of-1981-in-music/\">www.classicpopmag.com</a></p>\n<blockquote>\n<p>The story of 1981 in music</p>\n</blockquote>\n",
+				"content_text": "Still stuck in this year.  [www.classicpopmag.com](https://www.classicpopmag.com/2022/04/the-story-of-1981-in-music/)\n\n> The story of 1981 in music\n",
+				"date_published": "2022-04-08T08:07:34+02:00",
+				"url": "https://www.gunnar.se/2022/04/08/still-stuck-in.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/07/live-svt-nyheter.html",
+				
+				"content_html": "<p><a href=\"https://www.svt.se/nyheter/live/dad-i-stockholm\">7 april 2017 - SVT Nyheter Direktrapport: Dåd i Stockholm</a></p>\n",
+				"content_text": "[7 april 2017 - SVT Nyheter Direktrapport: Dåd i Stockholm](https://www.svt.se/nyheter/live/dad-i-stockholm)\n",
+				"date_published": "2022-04-07T10:40:38+02:00",
+				"url": "https://www.gunnar.se/2022/04/07/live-svt-nyheter.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/06/mit-scans-brain.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/dc-md-va/interactive/2022/multilingual-hyperpolyglot-brain-languages/\">MIT scans brain of hyperpolyglot Vaughn Smith, who speaks 24 languages - Washington Post</a></p>\n",
+				"content_text": "[MIT scans brain of hyperpolyglot Vaughn Smith, who speaks 24 languages - Washington Post](https://www.washingtonpost.com/dc-md-va/interactive/2022/multilingual-hyperpolyglot-brain-languages/)\n",
+				"date_published": "2022-04-06T19:33:01+02:00",
+				"url": "https://www.gunnar.se/2022/04/06/mit-scans-brain.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/05/snowy.html",
+				
+				"content_html": "<p>Snowy</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Snowy\n\n<img src=\"uploads/2022/a46add3948.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://www.gunnar.se/uploads/2022/cedcf78f1d.mov\" width=\"360\" height=\"640\" poster=\"https://www.gunnar.se/uploads/2022/03f399e896.png\" preload=\"none\"></video><video controls=\"controls\" playsinline=\"playsinline\" src=\"https://www.gunnar.se/uploads/2022/ccf1c39c39.mov\" width=\"360\" height=\"640\" poster=\"https://www.gunnar.se/uploads/2022/fb143776de.png\" preload=\"none\"></video>\n",
+				"date_published": "2022-04-05T18:58:54+02:00",
+				"url": "https://www.gunnar.se/2022/04/05/snowy.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/04/235609.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/70e1b24c4f.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/bc9cb87ad1.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2022/4dbef9e2d1.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/6a283bead3.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-04-04T23:56:09+02:00",
+				"url": "https://www.gunnar.se/2022/04/04/235609.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/04/kalles-klttertrd-men.html",
+				
+				"content_html": "<p>Kalles klätterträd men utan morfar</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kalles klätterträd men utan morfar\n\n<img src=\"https://www.gunnar.se/uploads/2022/c73150e139.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-04T23:32:29+02:00",
+				"url": "https://www.gunnar.se/2022/04/04/kalles-klttertrd-men.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/04/elon-musk-buys.html",
+				
+				"content_html": "<p><a href=\"https://www.bloomberg.com/news/articles/2022-04-04/musk-takes-9-2-stake-in-twitter-after-questioning-platform\">Elon Musk Buys 9.2% Twitter Shares in Passive Stake; TWTR Stock Rises - Bloomberg</a></p>\n",
+				"content_text": "[Elon Musk Buys 9.2% Twitter Shares in Passive Stake; TWTR Stock Rises - Bloomberg](https://www.bloomberg.com/news/articles/2022-04-04/musk-takes-9-2-stake-in-twitter-after-questioning-platform)\n",
+				"date_published": "2022-04-04T16:33:49+02:00",
+				"url": "https://www.gunnar.se/2022/04/04/elon-musk-buys.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/04/01/hi-a-b.html",
+				
+				"content_html": "<p>Hi! 👋 <a href=\"https://micro.blog/a\">@a</a> <a href=\"https://micro.blog/b\">@b</a> <a href=\"https://micro.blog/c\">@c</a> <a href=\"https://micro.blog/d\">@d</a> <a href=\"https://micro.blog/e\">@e</a> <a href=\"https://micro.blog/f\">@f</a> <a href=\"https://micro.blog/h\">@h</a> <a href=\"https://micro.blog/i\">@i</a> <a href=\"https://micro.blog/j\">@j</a> <a href=\"https://micro.blog/k\">@k</a> <a href=\"https://micro.blog/l\">@l</a> <a href=\"https://micro.blog/m\">@m</a> <a href=\"https://micro.blog/n\">@n</a> <a href=\"https://micro.blog/o\">@o</a> <a href=\"https://micro.blog/p\">@p</a> @q <a href=\"https://micro.blog/r\">@r</a> <a href=\"https://micro.blog/s\">@s</a> <a href=\"https://micro.blog/t\">@t</a> <a href=\"https://micro.blog/u\">@u</a> <a href=\"https://micro.blog/v\">@v</a> <a href=\"https://micro.blog/w\">@w</a> <a href=\"https://micro.blog/x\">@x</a> <a href=\"https://micro.blog/y\">@y</a> <a href=\"https://micro.blog/z\">@z</a></p>\n",
+				"content_text": "Hi! 👋 [@a](https://micro.blog/a) [@b](https://micro.blog/b) [@c](https://micro.blog/c) [@d](https://micro.blog/d) [@e](https://micro.blog/e) [@f](https://micro.blog/f) [@h](https://micro.blog/h) [@i](https://micro.blog/i) [@j](https://micro.blog/j) [@k](https://micro.blog/k) [@l](https://micro.blog/l) [@m](https://micro.blog/m) [@n](https://micro.blog/n) [@o](https://micro.blog/o) [@p](https://micro.blog/p) @q [@r](https://micro.blog/r) [@s](https://micro.blog/s) [@t](https://micro.blog/t) [@u](https://micro.blog/u) [@v](https://micro.blog/v) [@w](https://micro.blog/w) [@x](https://micro.blog/x) [@y](https://micro.blog/y) [@z](https://micro.blog/z)\n",
+				"date_published": "2022-04-01T16:08:20+02:00",
+				"url": "https://www.gunnar.se/2022/04/01/hi-a-b.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/03/31/annbritt-ryd-pettersson.html",
+				
+				"content_html": "<p>Ann-Britt Ryd Pettersson: ”Jag kommer nog sitta en del ute i solen och lyssna på fåglarna” <a href=\"https://www.journalisten.se/node/68780\">www.journalisten.se/node/6878&hellip;</a></p>\n",
+				"content_text": "Ann-Britt Ryd Pettersson: ”Jag kommer nog sitta en del ute i solen och lyssna på fåglarna” [www.journalisten.se/node/6878...](https://www.journalisten.se/node/68780)\n",
+				"date_published": "2022-03-31T22:18:30+02:00",
+				"url": "https://www.gunnar.se/2022/03/31/annbritt-ryd-pettersson.html"
+			},
+			{
 				"id": "http://g.micro.blog/2022/03/31/documentary-on-jim.html",
 				
 				"content_html": "<p><a href=\"https://deadline.com/2022/03/jim-henson-documentary-project-director-ron-howard-producer-brian-grazer-imagine-documentaries-disney-original-documentary-news-1234990726/amp/\">Documentary on Jim Henson Coming From Ron Howard, Brian Grazer – Deadline</a></p>\n",
@@ -34,7 +109,7 @@
 				"id": "http://g.micro.blog/2022/03/30/the-circus-av.html",
 				
 				"content_html": "<p>[The Circus av Erasure](<a href=\"https://en.wikipedia.org/wiki/The_Circus_(Erasure_album)\">https://en.wikipedia.org/wiki/The_Circus_(Erasure_album)</a> fyller 35 år just i dag.  Säkert det album jag har lyssnat absolut mest på genom åren. Minns att Sören hade köpt den och hela sommaren var det Vince och Andy för hela slanten.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The Circus av Erasure](https://en.wikipedia.org/wiki/The_Circus_(Erasure_album) fyller 35 år just i dag.  Säkert det album jag har lyssnat absolut mest på genom åren. Minns att Sören hade köpt den och hela sommaren var det Vince och Andy för hela slanten.\n\n<img src=\"uploads/2022/fa5295cf12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n\n",
+				"content_text": "[The Circus av Erasure](https://en.wikipedia.org/wiki/The_Circus_(Erasure_album) fyller 35 år just i dag.  Säkert det album jag har lyssnat absolut mest på genom åren. Minns att Sören hade köpt den och hela sommaren var det Vince och Andy för hela slanten.\n\n<img src=\"https://www.gunnar.se/uploads/2022/fa5295cf12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n\n",
 				"date_published": "2022-03-30T13:36:19+02:00",
 				"url": "https://www.gunnar.se/2022/03/30/the-circus-av.html",
 				"tags": ["Photos"]
@@ -43,7 +118,7 @@
 				"id": "http://g.micro.blog/2022/03/29/fick-upp-den.html",
 				
 				"content_html": "<p>Fick upp den här bilden som Elliot gjorde samma dag som appen Paper 1.0 kom ut för iPad. Såg att grundaren skrivit lite om hur det var för tio år sedan: <a href=\"https://www.andy.works/words/paper-at-10\">Paper at 10 | ANDY.WORKS</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fick upp den här bilden som Elliot gjorde samma dag som appen Paper 1.0 kom ut för iPad. Såg att grundaren skrivit lite om hur det var för tio år sedan: [Paper at 10 | ANDY.WORKS](https://www.andy.works/words/paper-at-10) \n\n<img src=\"uploads/2022/50f00495ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Fick upp den här bilden som Elliot gjorde samma dag som appen Paper 1.0 kom ut för iPad. Såg att grundaren skrivit lite om hur det var för tio år sedan: [Paper at 10 | ANDY.WORKS](https://www.andy.works/words/paper-at-10) \n\n<img src=\"https://www.gunnar.se/uploads/2022/50f00495ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-29T22:59:22+02:00",
 				"url": "https://www.gunnar.se/2022/03/29/fick-upp-den.html",
 				"tags": ["Photos"]
@@ -37265,7 +37340,7 @@
 				"id": "http://g.micro.blog/2007/10/01/081530.html",
 				"title": "För Burma?",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/90bfd1cb3f.jpg\" alt=\"Fr burma 1466841956 o\" title=\"fr-burma_1466841956_o.jpg\" border=\"0\" width=\"2048\" height=\"1536\" /> \n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2022/90bfd1cb3f.jpg\" alt=\"Fr burma 1466841956 o\" title=\"fr-burma_1466841956_o.jpg\" border=\"0\" width=\"2048\" height=\"1536\" /> \n",
 				"date_published": "2007-10-01T08:15:30+02:00",
 				"url": "https://www.gunnar.se/2007/10/01/081530.html",
 				"tags": ["Photos","Long"]
@@ -37274,7 +37349,7 @@
 				"id": "http://g.micro.blog/2007/09/30/145331.html",
 				"title": "Liam i Oasis?",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/12ec653e49.jpg\" alt=\"Liam i oasis 1367757455 o\" title=\"liam-i-oasis_1367757455_o.jpg\" border=\"0\" width=\"2048\" height=\"1536\" /> \n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2022/12ec653e49.jpg\" alt=\"Liam i oasis 1367757455 o\" title=\"liam-i-oasis_1367757455_o.jpg\" border=\"0\" width=\"2048\" height=\"1536\" /> \n",
 				"date_published": "2007-09-30T14:53:31+02:00",
 				"url": "https://www.gunnar.se/2007/09/30/145331.html",
 				"tags": ["Photos","Long"]
@@ -38992,8 +39067,8 @@
 			{
 				"id": "http://g.micro.blog/2006/10/20/150906.html",
 				"title": "EXCLUSIVE- GEORGE MICHAEL ON DRUGS",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/274574539/\" title=\"EXCLUSIVE- GEORGE MICHAEL ON DRUGS\"><img src=\"https://g.micro.blog/uploads/2019/f19c2e9ee8.jpg\" width=\"300\" height=\"394\" alt=\"EXCLUSIVE- GEORGE MICHAEL ON DRUGS\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2019/f19c2e9ee8.jpg\" width=\"300\" height=\"394\" alt=\"EXCLUSIVE- GEORGE MICHAEL ON DRUGS\">\n",
 				"date_published": "2006-10-20T15:09:06+02:00",
 				"url": "https://www.gunnar.se/2006/10/20/150906.html",
 				"tags": ["Photos","Long"]
@@ -39019,8 +39094,8 @@
 			{
 				"id": "http://g.micro.blog/2006/10/16/151821.html",
 				"title": "Måndag",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/271258077/\" title=\"Måndag\"><img src=\"https://g.micro.blog/uploads/2019/a8cf985485.jpg\" width=\"1280\" height=\"1024\" alt=\"Måndag\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2019/a8cf985485.jpg\" width=\"1280\" height=\"1024\" alt=\"Måndag\">\n",
 				"date_published": "2006-10-16T15:18:21+02:00",
 				"url": "https://www.gunnar.se/2006/10/16/151821.html",
 				"tags": ["Photos","Long"]
@@ -39046,8 +39121,8 @@
 			{
 				"id": "http://g.micro.blog/2006/09/24/211204.html",
 				"title": "Liseberg",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/251583618/\" title=\"Liseberg\"><img src=\"https://g.micro.blog/uploads/2019/cfb542ed5b.jpg\" width=\"1280\" height=\"1024\" alt=\"Liseberg\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2019/cfb542ed5b.jpg\" width=\"1280\" height=\"1024\" alt=\"Liseberg\">\n",
 				"date_published": "2006-09-24T21:12:04+02:00",
 				"url": "https://www.gunnar.se/2006/09/24/211204.html",
 				"tags": ["Photos","Long"]
@@ -39055,8 +39130,8 @@
 			{
 				"id": "http://g.micro.blog/2006/09/24/175854.html",
 				"title": "Stockholmståget",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/251396326/\" title=\"Stockholmståget\"><img src=\"https://g.micro.blog/uploads/2019/41ff6d873c.jpg\" width=\"1280\" height=\"1024\" alt=\"Stockholmståget\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"uploads/2019/41ff6d873c.jpg\" width=\"1280\" height=\"1024\" alt=\"Stockholmståget\"></a>\n",
 				"date_published": "2006-09-24T17:58:54+02:00",
 				"url": "https://www.gunnar.se/2006/09/24/175854.html",
 				"tags": ["Photos","Long"]
@@ -39064,8 +39139,8 @@
 			{
 				"id": "http://g.micro.blog/2006/09/24/stockholmstget.html",
 				"title": "Stockholmståget",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/251395813/\" title=\"Stockholmståget\"><img src=\"https://g.micro.blog/uploads/2019/a614e4b7c2.jpg\" width=\"1280\" height=\"1024\" alt=\"Stockholmståget\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2019/a614e4b7c2.jpg\" width=\"1280\" height=\"1024\" alt=\"Stockholmståget\"></a>\n",
 				"date_published": "2006-09-24T17:58:14+02:00",
 				"url": "https://www.gunnar.se/2006/09/24/stockholmstget.html",
 				"tags": ["Photos","Long"]
@@ -39073,8 +39148,8 @@
 			{
 				"id": "http://g.micro.blog/2006/09/24/175426.html",
 				"title": "Stockholmståget",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/251392568/\" title=\"Stockholmståget\"><img src=\"https://g.micro.blog/uploads/2019/0aa1f1e91f.jpg\" width=\"1280\" height=\"1024\" alt=\"Stockholmståget\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2019/0aa1f1e91f.jpg\" width=\"1280\" height=\"1024\" alt=\"Stockholmståget\"></a>\n",
 				"date_published": "2006-09-24T17:54:26+02:00",
 				"url": "https://www.gunnar.se/2006/09/24/175426.html",
 				"tags": ["Photos","Long"]
@@ -39082,8 +39157,8 @@
 			{
 				"id": "http://g.micro.blog/2006/09/22/151824.html",
 				"title": "Bosses hund ‘Olle’",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/249725464/\" title=\"Bosses hund &#x27;Olle&#x27;\"><img src=\"https://g.micro.blog/uploads/2019/ca63775712.jpg\" width=\"1280\" height=\"1024\" alt=\"Bosses hund &#x27;Olle&#x27;\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2019/ca63775712.jpg\" width=\"1280\" height=\"1024\" alt=\"Bosses hund &#x27;Olle&#x27;\">\n",
 				"date_published": "2006-09-22T15:18:24+02:00",
 				"url": "https://www.gunnar.se/2006/09/22/151824.html",
 				"tags": ["Photos","Long"]
@@ -39091,8 +39166,8 @@
 			{
 				"id": "http://g.micro.blog/2006/09/07/141937.html",
 				"title": "Folk man springer på: Niklas Svensson",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a data-flickr-embed=\"true\" data-header=\"true\" data-footer=\"true\"  href=\"https://www.flickr.com/photos/gunnar/236788481/\" title=\"Folk man springer på: Niklas Svensson\"><img src=\"https://g.micro.blog/uploads/2019/0e5cbf0f88.jpg\" width=\"1280\" height=\"1024\" alt=\"Folk man springer på: Niklas Svensson\"></a><script async src=\"//embedr.flickr.com/assets/client-code.js\" charset=\"utf-8\"></script>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2019/0e5cbf0f88.jpg\" width=\"1280\" height=\"1024\" alt=\"Folk man springer på: Niklas Svensson\"></a>\n",
 				"date_published": "2006-09-07T14:19:37+02:00",
 				"url": "https://www.gunnar.se/2006/09/07/141937.html",
 				"tags": ["Photos","Long"]
@@ -39137,7 +39212,7 @@
 				"id": "http://g.micro.blog/2006/08/10/071021.html",
 				"title": "Familjen 2006",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://g.micro.blog/uploads/2019/6cc371702e.jpg\" width=\"1024\" height=\"683\" alt=\"Familjen 2006\">\nJuliana Wiklund, <a href=\"http://www.morethanwords.se\">morethanwords.se</a>, kom förbi och tog massa bilder av familjen.\n<a href=\"https://www.flickr.com/photos/gunnar/sets/72157594230906673/\">Alla 190 bilder finns här.</a>\n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2019/6cc371702e.jpg\" width=\"1024\" height=\"683\" alt=\"Familjen 2006\">\nJuliana Wiklund, <a href=\"http://www.morethanwords.se\">morethanwords.se</a>, kom förbi och tog massa bilder av familjen.\n",
 				"date_published": "2006-08-10T07:10:21+02:00",
 				"url": "https://www.gunnar.se/2006/08/10/071021.html",
 				"tags": ["Photos","Long"]
@@ -39470,7 +39545,7 @@
 				"id": "http://g.micro.blog/2006/06/20/082112.html",
 				"title": "Mer bilder från kusin Jocke",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://g.micro.blog/uploads/2019/aac77caf2e.jpg\" width=\"1024\" height=\"679\" alt=\"Angie och Movitz\">\nSom om det inte räckte med 102 bilder från dopet så har Jocke skickat ett gäng till. Alla finns här: <a href=\"http://www.flickr.com/photos/gunnar/archives/date-posted/2006/06/19/\">http://www.flickr.com/photos/gunnar/archives/date-posted/2006/06/19/</a></p>\n",
+				"content_text": "<img src=\"https://www.gunnar.se/uploads/2019/aac77caf2e.jpg\" width=\"1024\" height=\"679\" alt=\"Angie och Movitz\">\nSom om det inte räckte med 102 bilder från dopet så har Jocke skickat ett gäng till.\n",
 				"date_published": "2006-06-20T08:21:12+02:00",
 				"url": "https://www.gunnar.se/2006/06/20/082112.html",
 				"tags": ["Photos","Long"]
