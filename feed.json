@@ -7,10 +7,275 @@
 	"items": [
 		
 			{
+				"id": "http://g.micro.blog/2022/08/26/hans-gedda-jag.html",
+				
+				"content_html": "<p>Hans Gedda: &ldquo;Jag lever när jag fotograferar&rdquo; <a href=\"https://www.svd.se/a/OrRlwl/hans-gedda-jag-lever-nar-jag-fotograferar\">www.svd.se/a/OrRlwl/&hellip;</a></p>\n",
+				"content_text": "Hans Gedda: \"Jag lever när jag fotograferar\" [www.svd.se/a/OrRlwl/...](https://www.svd.se/a/OrRlwl/hans-gedda-jag-lever-nar-jag-fotograferar)\n",
+				"date_published": "2022-08-26T11:14:28+02:00",
+				"url": "https://gunnar.se/2022/08/26/hans-gedda-jag.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/ahacom-in-malm.html",
+				
+				"content_html": "<p>👋🏻 @aha_com in Malmö</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "👋🏻 @aha_com in Malmö \n\n<img src=\"uploads/2022/ac2be12c98.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-24T17:17:40+02:00",
+				"url": "https://gunnar.se/2022/08/24/ahacom-in-malm.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/now-vaughntan-on.html",
+				
+				"content_html": "<p>Now @vaughn_tan on how to organise innovation at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @vaughn_tan on how to organise innovation at @theconfmalmo #theconf \n\n<img src=\"uploads/2022/14bef29ee3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-24T13:28:25+02:00",
+				"url": "https://gunnar.se/2022/08/24/now-vaughntan-on.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/missionoriented-innovation-a.html",
+				
+				"content_html": "<p><a href=\"https://www.vinnova.se/en/publikationer/mission-oriented-innovation---a-handbook-from-vinnova/\">Mission-oriented innovation - a handbook from Vinnova</a></p>\n",
+				"content_text": " [Mission-oriented innovation - a handbook from Vinnova](https://www.vinnova.se/en/publikationer/mission-oriented-innovation---a-handbook-from-vinnova/)\n",
+				"date_published": "2022-08-24T13:23:49+02:00",
+				"url": "https://gunnar.se/2022/08/24/missionoriented-innovation-a.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/innovation-and-crisis.html",
+				
+				"content_html": "<p><a href=\"https://www.nesta.org.uk/blog/innovation-and-crisis-six-factors-spark-radical-innovation-turbulent-times/\">Innovation and crisis: The six factors that spark radical innovation in turbulent times - Nesta</a></p>\n",
+				"content_text": " [Innovation and crisis: The six factors that spark radical innovation in turbulent times - Nesta](https://www.nesta.org.uk/blog/innovation-and-crisis-six-factors-spark-radical-innovation-turbulent-times/)\n",
+				"date_published": "2022-08-24T13:19:50+02:00",
+				"url": "https://gunnar.se/2022/08/24/innovation-and-crisis.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/now-darjaisaksson-on.html",
+				
+				"content_html": "<p>Now @darjaisaksson on how to organise innovation at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @darjaisaksson on how to organise innovation at @theconfmalmo #theconf\n\n<img src=\"https://gunnar.se/uploads/2022/6c43bcb6e6.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-08-24T13:05:38+02:00",
+				"url": "https://gunnar.se/2022/08/24/now-darjaisaksson-on.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/now-vgalaz-at.html",
+				
+				"content_html": "<p>Now @vgalaz at @theconfmalmo #theconf read: <a href=\"https://www.dn.se/sverige/studie-utsatta-grupper-riskerar-att-hamna-i-klam-nar-sverige-staller-om/\">Så slår klimatförändringarna mot utsatta områden - DN.SE</a></p>\n",
+				"content_text": "Now @vgalaz at @theconfmalmo #theconf read: [Så slår klimatförändringarna mot utsatta områden - DN.SE](https://www.dn.se/sverige/studie-utsatta-grupper-riskerar-att-hamna-i-klam-nar-sverige-staller-om/)\n",
+				"date_published": "2022-08-24T11:17:29+02:00",
+				"url": "https://gunnar.se/2022/08/24/now-vgalaz-at.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/now-tegabrain-at.html",
+				
+				"content_html": "<p>Now @tegabrain at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @tegabrain at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/1113de4c92.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-24T10:25:03+02:00",
+				"url": "https://gunnar.se/2022/08/24/now-tegabrain-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/artificial-intelligence-issue.html",
+				
+				"content_html": "<p><a href=\"https://hdsr.mitpress.mit.edu/pub/0aytgrau/release/3\">Artificial Intelligence · Issue 1.1, Summer 2019</a></p>\n",
+				"content_text": " [Artificial Intelligence · Issue 1.1, Summer 2019](https://hdsr.mitpress.mit.edu/pub/0aytgrau/release/3)\n",
+				"date_published": "2022-08-24T10:15:29+02:00",
+				"url": "https://gunnar.se/2022/08/24/artificial-intelligence-issue.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/solar-protocol-this.html",
+				
+				"content_html": "<p><a href=\"http://solarprotocol.net/\">Solar Protocol</a></p>\n<blockquote>\n<p>This website is hosted across a network of solar powered servers and is sent to you from wherever there is the most sunshine.</p>\n</blockquote>\n",
+				"content_text": " [Solar Protocol](http://solarprotocol.net/)\n\n> This website is hosted across a network of solar powered servers and is sent to you from wherever there is the most sunshine.\n",
+				"date_published": "2022-08-24T10:11:35+02:00",
+				"url": "https://gunnar.se/2022/08/24/solar-protocol-this.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/the-hidden-life.html",
+				
+				"content_html": "<p><a href=\"https://www.antiatlas.net/hidden-life-of-an-amazon-user/\">The Hidden Life of an Amazon User - antiAtlas of Borders</a></p>\n",
+				"content_text": " [The Hidden Life of an Amazon User - antiAtlas of Borders](https://www.antiatlas.net/hidden-life-of-an-amazon-user/)\n",
+				"date_published": "2022-08-24T10:09:35+02:00",
+				"url": "https://gunnar.se/2022/08/24/the-hidden-life.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/24/great-morning-intro.html",
+				
+				"content_html": "<p>Great morning intro at @theconfmalmo #theconf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Great morning intro at @theconfmalmo #theconf\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gunnar.se/uploads/2022/b3967d9cb2.mov\" width=\"360\" height=\"640\" poster=\"https://gunnar.se/uploads/2022/68d20df3b9.png\" preload=\"none\"></video>\n",
+				"date_published": "2022-08-24T09:37:53+02:00",
+				"url": "https://gunnar.se/2022/08/24/great-morning-intro.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/now-alicerawsthorn-at.html",
+				
+				"content_html": "<p>Now @alicerawsthorn at @theconfmalmo #theconf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Now @alicerawsthorn at @theconfmalmo #theconf\n\n<img src=\"https://gunnar.se/uploads/2022/b63fe891e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/13da7c0fe3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-23T13:55:35+02:00",
+				"url": "https://gunnar.se/2022/08/23/now-alicerawsthorn-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/now-mayaonthenet-at.html",
+				
+				"content_html": "<p>Now @mayaonthenet at @theconfmalmo #theconf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Now @mayaonthenet at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/7c46675b41.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/123e86d9a2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-23T12:08:31+02:00",
+				"url": "https://gunnar.se/2022/08/23/now-mayaonthenet-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/now-hillaryjuma-at.html",
+				
+				"content_html": "<p>Now @hillaryjuma_ at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @hillaryjuma_ at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/736f2c7efb.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-08-23T11:56:42+02:00",
+				"url": "https://gunnar.se/2022/08/23/now-hillaryjuma-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/love-to-netnewswire.html",
+				
+				"content_html": "<p>Love to <a href=\"https://micro.blog/netnewswire\">@netnewswire</a> from <a href=\"https://micro.blog/genmon\">@genmon</a> at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Love to [@netnewswire](https://micro.blog/netnewswire) from [@genmon](https://micro.blog/genmon) at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/89427ec811.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-08-23T11:52:11+02:00",
+				"url": "https://gunnar.se/2022/08/23/love-to-netnewswire.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/now-jordirocasan-at.html",
+				
+				"content_html": "<p>Now @jordirocasan at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @jordirocasan at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/dbdd90e26b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-23T11:47:15+02:00",
+				"url": "https://gunnar.se/2022/08/23/now-jordirocasan-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/now-jocxy-at.html",
+				
+				"content_html": "<p>Now @jocxy at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @jocxy at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/9e88b55692.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-08-23T11:41:40+02:00",
+				"url": "https://gunnar.se/2022/08/23/now-jocxy-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/now-genmon-at.html",
+				
+				"content_html": "<p>Now <a href=\"https://micro.blog/genmon\">@genmon</a> at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now [@genmon](https://micro.blog/genmon) at @theconfmalmo #theconf\n\n<img src=\"https://gunnar.se/uploads/2022/a7ef37c6e2.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-08-23T11:39:37+02:00",
+				"url": "https://gunnar.se/2022/08/23/now-genmon-at.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/23/johan-croneman-anders.html",
+				
+				"content_html": "<p>Johan Croneman: Anders Holmberg och Camilla Kvartoft är en supermatchning <a href=\"https://www.dn.se/kultur/johan-croneman-anders-holmberg-och-camilla-kvartoft-ar-en-supermatchning-i-svt/\">www.dn.se/kultur/jo&hellip;</a></p>\n",
+				"content_text": "Johan Croneman: Anders Holmberg och Camilla Kvartoft är en supermatchning [www.dn.se/kultur/jo...](https://www.dn.se/kultur/johan-croneman-anders-holmberg-och-camilla-kvartoft-ar-en-supermatchning-i-svt/)\n",
+				"date_published": "2022-08-23T08:42:14+02:00",
+				"url": "https://gunnar.se/2022/08/23/johan-croneman-anders.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/22/white-house-photographer.html",
+				
+				"content_html": "<p>White House Photographer Threatened Over His Own Public Domain Photo <a href=\"https://petapixel.com/2022/08/22/white-house-photographer-threatened-over-his-own-public-domain-photo/\">petapixel.com/2022/08/2&hellip;</a></p>\n",
+				"content_text": "White House Photographer Threatened Over His Own Public Domain Photo [petapixel.com/2022/08/2...](https://petapixel.com/2022/08/22/white-house-photographer-threatened-over-his-own-public-domain-photo/)\n",
+				"date_published": "2022-08-22T15:19:19+02:00",
+				"url": "https://gunnar.se/2022/08/22/white-house-photographer.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/21/biokvll-i-rlis.html",
+				
+				"content_html": "<p>Biokväll i Rålis</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Biokväll i Rålis\n\n<img src=\"https://gunnar.se/uploads/2022/b1c7cb014f.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/570095553b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-21T22:11:47+02:00",
+				"url": "https://gunnar.se/2022/08/21/biokvll-i-rlis.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/21/fotografen-hans-gedda.html",
+				
+				"content_html": "<p>Fotografen Hans Gedda: ”Fotoutställningar är skittråkiga” <a href=\"https://www.fokus.se/fokus-pa/fotografen-hans-gedda-fotoutstallningar-ar-skittrakiga/\">www.fokus.se/fokus-pa/&hellip;</a></p>\n",
+				"content_text": "Fotografen Hans Gedda: ”Fotoutställningar är skittråkiga” [www.fokus.se/fokus-pa/...](https://www.fokus.se/fokus-pa/fotografen-hans-gedda-fotoutstallningar-ar-skittrakiga/)\n",
+				"date_published": "2022-08-21T17:52:19+02:00",
+				"url": "https://gunnar.se/2022/08/21/fotografen-hans-gedda.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/21/hans-gedda-jag.html",
+				
+				"content_html": "<p>Hans Gedda: ”Jag undrade om jag var i helvetet” <a href=\"https://www.svd.se/a/dno4VB/hans-gedda-aktuell-pa-fotografiska-alltid-varit-blyg\">www.svd.se/a/dno4VB/&hellip;</a></p>\n",
+				"content_text": "Hans Gedda: ”Jag undrade om jag var i helvetet” [www.svd.se/a/dno4VB/...](https://www.svd.se/a/dno4VB/hans-gedda-aktuell-pa-fotografiska-alltid-varit-blyg)\n",
+				"date_published": "2022-08-21T17:52:05+02:00",
+				"url": "https://gunnar.se/2022/08/21/hans-gedda-jag.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/21/gunnadrinks-looks-good.html",
+				
+				"content_html": "<p>! @gunnadrinks Looks good. <a href=\"https://gunnadrinks.com/\">gunnadrinks.com</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "! @gunnadrinks Looks good. [gunnadrinks.com](https://gunnadrinks.com/)\n\n\n<img src=\"https://gunnar.se/uploads/2022/9e87e46714.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/4dc445d28e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/d76de8be8c.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/dc1956a62b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-21T17:46:12+02:00",
+				"url": "https://gunnar.se/2022/08/21/gunnadrinks-looks-good.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/21/just-leaf-it.html",
+				
+				"content_html": "<p>Just leaf it</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just leaf it\n\n\n<img src=\"https://gunnar.se/uploads/2022/5fb058f3b2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-21T11:09:54+02:00",
+				"url": "https://gunnar.se/2022/08/21/just-leaf-it.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/20/strangers-can-write.html",
+				
+				"content_html": "<p>Strangers can write a book together on the Infinite Chapters website <a href=\"https://boingboing.net/2022/08/20/strangers-can-write-a-book-together-on-the-infinite-chapters-website.html\">boingboing.net/2022/08/2&hellip;</a></p>\n",
+				"content_text": "Strangers can write a book together on the Infinite Chapters website [boingboing.net/2022/08/2...](https://boingboing.net/2022/08/20/strangers-can-write-a-book-together-on-the-infinite-chapters-website.html)\n",
+				"date_published": "2022-08-20T21:38:34+02:00",
+				"url": "https://gunnar.se/2022/08/20/strangers-can-write.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/20/internet-p-jobbet.html",
+				
+				"content_html": "<p>Internet på jobbet kan vara som att dra i snöret på Gröna Lund.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Internet på jobbet kan vara som att dra i snöret på Gröna Lund. \n\n<img src=\"https://gunnar.se/uploads/2022/f7e063b190.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-20T11:02:45+02:00",
+				"url": "https://gunnar.se/2022/08/20/internet-p-jobbet.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/19/hardy-nilsson-heydays.html",
+				
+				"content_html": "<p>Hardy Nilsson Heydays Alvesta Sweden 18 jan 1995 Full Show</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hardy Nilsson Heydays Alvesta Sweden 18 jan 1995 Full Show\n\n<iframe width=\"560\" height=\"560\" src=\"https://www.youtube.com/embed/Tp5hXrtw0QU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"date_published": "2022-08-19T22:35:50+02:00",
+				"url": "https://gunnar.se/2022/08/19/hardy-nilsson-heydays.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/18/bubble-party-stockholm.html",
+				
+				"content_html": "<p>Bubble party @ Stockholm Filmfestival Rålis</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Bubble party @ Stockholm Filmfestival Rålis\n\n<img src=\"https://gunnar.se/uploads/2022/f726c268fc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gunnar.se/uploads/2022/c12f61d2c4.mov\" width=\"360\" height=\"640\" poster=\"https://gunnar.se/uploads/2022/30b2c15285.png\" preload=\"none\"></video>\n",
+				"date_published": "2022-08-18T21:01:47+02:00",
+				"url": "https://gunnar.se/2022/08/18/bubble-party-stockholm.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/08/18/nr-jag-och.html",
+				
+				"content_html": "<p>När jag och Lykke tittar på <strong>Wannadies</strong> riktar <a href=\"https://micro.blog/pelles\">@pelles</a> linsen mot oss istället. Bandbild: Lykke.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "När jag och Lykke tittar på **Wannadies** riktar [@pelles](https://micro.blog/pelles) linsen mot oss istället. Bandbild: Lykke.\n\n<img src=\"https://gunnar.se/uploads/2022/a72d69589f.jpg\" width=\"399\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/e6d1422ff4.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-08-18T19:36:07+02:00",
+				"url": "https://gunnar.se/2022/08/18/nr-jag-och.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://g.micro.blog/2022/08/18/svt-techsprint.html",
 				
 				"content_html": "<p>SVT Techsprint 2022</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "SVT Techsprint 2022 \n\n<img src=\"uploads/2022/368a6722c8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "SVT Techsprint 2022 \n\n<img src=\"https://gunnar.se/uploads/2022/368a6722c8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-18T14:02:22+02:00",
 				"url": "https://gunnar.se/2022/08/18/svt-techsprint.html",
 				"tags": ["Photos"]
@@ -43,7 +308,7 @@
 				"id": "http://g.micro.blog/2022/08/14/klf-is-gonna.html",
 				
 				"content_html": "<p>KLF is gonna rock ya (are you ready?)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "KLF is gonna rock ya (are you ready?)\n\n<img src=\"uploads/2022/076ba5bea2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "KLF is gonna rock ya (are you ready?)\n\n<img src=\"https://gunnar.se/uploads/2022/076ba5bea2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-14T16:07:15+02:00",
 				"url": "https://gunnar.se/2022/08/14/klf-is-gonna.html",
 				"tags": ["Photos"]
@@ -731,7 +996,7 @@
 				"id": "http://g.micro.blog/2022/04/27/signaturen-till-efter.html",
 				
 				"content_html": "<p>Signaturen till <!-- raw HTML omitted --><strong>Efter Tre</strong><!-- raw HTML omitted -->, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <!-- raw HTML omitted -->Bertil Goldberg.<!-- raw HTML omitted --> Man vill ju höra mer om historien och jobbet bakom.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Signaturen till <a href=\"https://sv.wikipedia.org/wiki/Efter_tre\">**Efter Tre**</a>, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <a href=\"https://sv.wikipedia.org/wiki/Bertil_Goldberg\">Bertil Goldberg.</a> Man vill ju höra mer om historien och jobbet bakom. \n\n<img src=\"uploads/2022/57d817b6ec.jpg\" alt=\"Bertil\" title=\"bertil.jpg\" border=\"0\" width=\"650\" height=\"416\" />\n\n<audio controls=\"controls\" src=\"https://g.micro.blog/uploads/2022/af856f5c77.mp3\" preload=\"metadata\" />\n\n",
+				"content_text": "Signaturen till <a href=\"https://sv.wikipedia.org/wiki/Efter_tre\">**Efter Tre**</a>, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <a href=\"https://sv.wikipedia.org/wiki/Bertil_Goldberg\">Bertil Goldberg.</a> Man vill ju höra mer om historien och jobbet bakom. \n\n<img src=\"https://g.micro.blog/uploads/2022/57d817b6ec.jpg\" alt=\"Bertil\" title=\"bertil.jpg\" border=\"0\" width=\"650\" height=\"416\" />\n\n<audio controls=\"controls\" src=\"https://g.micro.blog/uploads/2022/af856f5c77.mp3\" preload=\"metadata\" />\n\n",
 				"date_published": "2022-04-27T11:05:18+02:00",
 				"url": "https://gunnar.se/2022/04/27/signaturen-till-efter.html"
 			},
