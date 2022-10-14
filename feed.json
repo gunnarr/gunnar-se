@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://g.micro.blog/2022/10/14/svt-sports-jan.html",
+				
+				"content_html": "<p><a href=\"https://www.svt.se/sport/svt-sport/svt-sports-jan-lorentzon-ar-dod\">SVT Sports Jan Lorentzon är död: ”Lärde miljontals tv-tittare att älska internationella klipp” | SVT Sport</a></p>\n",
+				"content_text": "[SVT Sports Jan Lorentzon är död: ”Lärde miljontals tv-tittare att älska internationella klipp” | SVT Sport](https://www.svt.se/sport/svt-sport/svt-sports-jan-lorentzon-ar-dod)\n",
+				"date_published": "2022-10-14T11:14:44+02:00",
+				"url": "https://gunnar.se/2022/10/14/svt-sports-jan.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/10/13/wiredcom-years-later.html",
+				
+				"content_html": "<p><a href=\"https://stopdesign.com/archive/2022/10/11/wired-com-20-years-later.html\">Wired.com: 20 years later | Stopdesign</a></p>\n",
+				"content_text": "[Wired.com: 20 years later | Stopdesign](https://stopdesign.com/archive/2022/10/11/wired-com-20-years-later.html)\n",
+				"date_published": "2022-10-13T13:26:25+02:00",
+				"url": "https://gunnar.se/2022/10/13/wiredcom-years-later.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/10/09/trevor-horn-interview.html",
+				
+				"content_html": "<p>Trevor Horn interview – going nuclear <a href=\"https://www.classicpopmag.com/2022/10/trevor-horn-frankie-goes-to-hollywood/\">www.classicpopmag.com/2022/10/t&hellip;</a></p>\n",
+				"content_text": "Trevor Horn interview – going nuclear [www.classicpopmag.com/2022/10/t...](https://www.classicpopmag.com/2022/10/trevor-horn-frankie-goes-to-hollywood/)\n",
+				"date_published": "2022-10-09T13:44:09+02:00",
+				"url": "https://gunnar.se/2022/10/09/trevor-horn-interview.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/10/09/ebuch-page.html",
+				
+				"content_html": "<p>ebu.ch 404-page</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "ebu.ch 404-page\n\n<img src=\"uploads/2022/1d4deebc64.png\" width=\"600\" height=\"488\" alt=\"\">\n",
+				"date_published": "2022-10-09T13:01:14+02:00",
+				"url": "https://gunnar.se/2022/10/09/ebuch-page.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://g.micro.blog/2022/10/08/tokyo-times-photographs.html",
 				
 				"content_html": "<p><a href=\"https://www.tokyotimes.org/\">Tokyo Times — Photographs from a small group of islands</a></p>\n",
@@ -18,7 +51,7 @@
 				"id": "http://g.micro.blog/2022/10/03/morning.html",
 				
 				"content_html": "<p>Morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning\n\n<img src=\"uploads/2022/4156364ea0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Morning\n\n<img src=\"https://gunnar.se/uploads/2022/4156364ea0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-03T09:17:11+02:00",
 				"url": "https://gunnar.se/2022/10/03/morning.html",
 				"tags": ["Photos"]
