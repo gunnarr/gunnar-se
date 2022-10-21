@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://g.micro.blog/2022/10/21/cilla-benk-det.html",
+				
+				"content_html": "<p><a href=\"https://www.dn.se/kultur/cilla-benko-det-behover-den-nya-kulturministern-tanka-pa-infor-public-service-utredningen/\">Cilla Benkö: Det behöver den nya kulturministern tänka på</a></p>\n",
+				"content_text": " [Cilla Benkö: Det behöver den nya kulturministern tänka på](https://www.dn.se/kultur/cilla-benko-det-behover-den-nya-kulturministern-tanka-pa-infor-public-service-utredningen/)\n",
+				"date_published": "2022-10-21T07:36:32+02:00",
+				"url": "https://gunnar.se/2022/10/21/cilla-benk-det.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/10/16/now-midgeure-live.html",
+				
+				"content_html": "<p>Now @midgeure1 live at Slaktkyrkan in Stockholm #ultravox #midgeure</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now @midgeure1 live at Slaktkyrkan in Stockholm #ultravox #midgeure\n\n\n<img src=\"uploads/2022/d9d5ebe9a7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2022-10-16T21:11:43+02:00",
+				"url": "https://gunnar.se/2022/10/16/now-midgeure-live.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://g.micro.blog/2022/10/14/svt-sports-jan.html",
 				
 				"content_html": "<p><a href=\"https://www.svt.se/sport/svt-sport/svt-sports-jan-lorentzon-ar-dod\">SVT Sports Jan Lorentzon är död: ”Lärde miljontals tv-tittare att älska internationella klipp” | SVT Sport</a></p>\n",
@@ -34,7 +51,7 @@
 				"id": "http://g.micro.blog/2022/10/09/ebuch-page.html",
 				
 				"content_html": "<p>ebu.ch 404-page</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ebu.ch 404-page\n\n<img src=\"uploads/2022/1d4deebc64.png\" width=\"600\" height=\"488\" alt=\"\">\n",
+				"content_text": "ebu.ch 404-page\n\n<img src=\"https://gunnar.se/uploads/2022/1d4deebc64.png\" width=\"600\" height=\"488\" alt=\"\">\n",
 				"date_published": "2022-10-09T13:01:14+02:00",
 				"url": "https://gunnar.se/2022/10/09/ebuch-page.html",
 				"tags": ["Photos"]
