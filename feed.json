@@ -7,10 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://g.micro.blog/2022/12/20/bereal-styrelsemte-i.html",
+				
+				"content_html": "<p>BeReal: Styrelsemöte i Sveriges Television AB</p>\n<p><a href=\"https://gunnar.se/uploads/2022/ffb70e47e7.jpg\"><img src=\"https://gunnar.se/uploads/2022/ffb70e47e7.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "BeReal: Styrelsemöte i Sveriges Television AB\n\n[![](https://gunnar.se/uploads/2022/ffb70e47e7.jpg)](https://gunnar.se/uploads/2022/ffb70e47e7.jpg)\n",
+				"date_published": "2022-12-20T09:10:55+01:00",
+				"url": "https://gunnar.se/2022/12/20/bereal-styrelsemte-i.html",
+				"tags": ["Photos","BeReal"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/12/18/stockholm-sergels-torg.html",
+				
+				"content_html": "<p>Stockholm Sergels Torg</p>\n<p><a href=\"https://gunnar.se/uploads/2022/e89917abff.jpg\"><img src=\"https://gunnar.se/uploads/2022/e89917abff.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Stockholm Sergels Torg\n\n[![](https://gunnar.se/uploads/2022/e89917abff.jpg)](https://gunnar.se/uploads/2022/e89917abff.jpg)\n",
+				"date_published": "2022-12-18T14:17:10+01:00",
+				"url": "https://gunnar.se/2022/12/18/stockholm-sergels-torg.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/12/18/130336.html",
+				
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/c74e043e61.jpg\"><img src=\"https://gunnar.se/uploads/2022/c74e043e61.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/c74e043e61.jpg)](https://gunnar.se/uploads/2022/c74e043e61.jpg)\n",
+				"date_published": "2022-12-18T13:03:36+01:00",
+				"url": "https://gunnar.se/2022/12/18/130336.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/12/18/let-it-snow.html",
+				
+				"content_html": "<p>Let it snow</p>\n<p><a href=\"https://gunnar.se/uploads/2022/fbfd8f3481.jpg\"><img src=\"https://gunnar.se/uploads/2022/fbfd8f3481.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Let it snow\n\n[![](https://gunnar.se/uploads/2022/fbfd8f3481.jpg)](https://gunnar.se/uploads/2022/fbfd8f3481.jpg)\n",
+				"date_published": "2022-12-18T11:35:46+01:00",
+				"url": "https://gunnar.se/2022/12/18/let-it-snow.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/12/17/nyheten-om-att.html",
+				
+				"content_html": "<blockquote>\n<p>Nyheten om att flera kända journalister stängts av från Twitter efter att de skrivit om Elon Musk har även i Sverige skapat huvudbry för publicister kring hur de i fortsättningen ska förhålla sig till plattformen.</p>\n</blockquote>\n<p>Source: <a href=\"https://www.dn.se/kultur/jan-helin-twitter-ar-inte-lampligt-for-journalistik/\">”Journalister borde fråga sig varför de är på Twitter” - DN.SE</a></p>\n",
+				"content_text": "> Nyheten om att flera kända journalister stängts av från Twitter efter att de skrivit om Elon Musk har även i Sverige skapat huvudbry för publicister kring hur de i fortsättningen ska förhålla sig till plattformen.\r\n\r\n\r\n\r\nSource: [”Journalister borde fråga sig varför de är på Twitter” - DN.SE](https://www.dn.se/kultur/jan-helin-twitter-ar-inte-lampligt-for-journalistik/)\n",
+				"date_published": "2022-12-17T20:27:44+01:00",
+				"url": "https://gunnar.se/2022/12/17/nyheten-om-att.html"
+			},
+			{
+				"id": "http://g.micro.blog/2022/12/17/december.html",
+				
+				"content_html": "<p>17 December 2022</p>\n<p><a href=\"https://gunnar.se/uploads/2022/a19f3217de.jpg\"><img src=\"https://gunnar.se/uploads/2022/a19f3217de.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "17 December 2022\n\n[![](https://gunnar.se/uploads/2022/a19f3217de.jpg)](https://gunnar.se/uploads/2022/a19f3217de.jpg)\n\n",
+				"date_published": "2022-12-17T17:43:57+01:00",
+				"url": "https://gunnar.se/2022/12/17/december.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://g.micro.blog/2022/12/16/twitter-suspends-journalists.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2022/12/15/technology/twitter-suspends-journalist-accounts-elon-musk.html\">Twitter Suspends Journalists’ Accounts, Some of Whom Wrote About Musk - The New York Times</a></p>\n",
+				"content_text": "[Twitter Suspends Journalists’ Accounts, Some of Whom Wrote About Musk - The New York Times](https://www.nytimes.com/2022/12/15/technology/twitter-suspends-journalist-accounts-elon-musk.html)\n",
+				"date_published": "2022-12-16T07:29:56+01:00",
+				"url": "https://gunnar.se/2022/12/16/twitter-suspends-journalists.html"
+			},
+			{
 				"id": "http://g.micro.blog/2022/12/14/mer-must-adolphson.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/4c25444d64.png\" alt=\"IMG 1446\" title=\"IMG_1446.png\" border=\"0\" width=\"450\" height=\"600\" />\nMer Must Adolphson & Falk\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/4c25444d64.png\"><img src=\"https://gunnar.se/uploads/2022/4c25444d64.png\" alt=\"\"></a></p>\n<p>Mer Must Adolphson &amp; Falk</p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/4c25444d64.png)](https://gunnar.se/uploads/2022/4c25444d64.png)\n\nMer Must Adolphson & Falk\n",
 				"date_published": "2022-12-14T07:30:36+01:00",
 				"url": "https://gunnar.se/2022/12/14/mer-must-adolphson.html",
 				"tags": ["Photos"]
@@ -18,8 +79,8 @@
 			{
 				"id": "http://g.micro.blog/2022/12/14/absolut-inga-plgsamma.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<p>Absolut inga plågsamma syntförsök när @adolphsonfalk premiärspelade Med julen i blodet. Hans Loelv, Tomas Adolphson, @gregfitzpatrick, Anders Falk, Dagge Lundquist och Magnus Marcks. Tack för en superkväll @moist_se och @martinthors1</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://gunnar.se/uploads/2022/a39254a7d2.png\" alt=\"IMG 1463\" title=\"IMG_1463.png\" border=\"0\" width=\"599\" height=\"396\" />\n\nAbsolut inga plågsamma syntförsök när @adolphsonfalk premiärspelade Med julen i blodet. Hans Loelv, Tomas Adolphson, @gregfitzpatrick, Anders Falk, Dagge Lundquist och Magnus Marcks. Tack för en superkväll @moist_se och @martinthors1\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/a39254a7d2.png\"><img src=\"https://gunnar.se/uploads/2022/a39254a7d2.png\" alt=\"\"></a></p>\n<p>Absolut inga plågsamma syntförsök när @adolphsonfalk premiärspelade Med julen i blodet. Hans Loelv, Tomas Adolphson, @gregfitzpatrick, Anders Falk, Dagge Lundquist och Magnus Marcks. Tack för en superkväll @moist_se och @martinthors1</p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/a39254a7d2.png)](https://gunnar.se/uploads/2022/a39254a7d2.png)\n\nAbsolut inga plågsamma syntförsök när @adolphsonfalk premiärspelade Med julen i blodet. Hans Loelv, Tomas Adolphson, @gregfitzpatrick, Anders Falk, Dagge Lundquist och Magnus Marcks. Tack för en superkväll @moist_se och @martinthors1\n",
 				"date_published": "2022-12-14T07:28:01+01:00",
 				"url": "https://gunnar.se/2022/12/14/absolut-inga-plgsamma.html",
 				"tags": ["Photos"]
@@ -43,8 +104,8 @@
 			{
 				"id": "http://g.micro.blog/2022/12/05/barnet-i-vagnen.html",
 				
-				"content_html": "<p>Barnet i vagnen på den fulla bussen pekar mot skärmen i taket.</p>\n<p><em>”Jag vill titta Bolibompa där.”</em></p>\n<p>Klassisk produktutveckling.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Barnet i vagnen på den fulla bussen pekar mot skärmen i taket. \n\n_”Jag vill titta Bolibompa där.”_\n\nKlassisk produktutveckling.  \n\n<img src=\"https://gunnar.se/uploads/2022/a50f801146.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Barnet i vagnen på den fulla bussen pekar mot skärmen i taket.</p>\n<p><em>”Jag vill titta Bolibompa där.”</em></p>\n<p>Klassisk produktutveckling.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/a50f801146.jpg\"><img src=\"https://gunnar.se/uploads/2022/a50f801146.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Barnet i vagnen på den fulla bussen pekar mot skärmen i taket. \n\n_”Jag vill titta Bolibompa där.”_\n\nKlassisk produktutveckling.  \n\n[![](https://gunnar.se/uploads/2022/a50f801146.jpg)](https://gunnar.se/uploads/2022/a50f801146.jpg)\n",
 				"date_published": "2022-12-05T08:00:59+01:00",
 				"url": "https://gunnar.se/2022/12/05/barnet-i-vagnen.html",
 				"tags": ["Photos"]
@@ -52,8 +113,8 @@
 			{
 				"id": "http://g.micro.blog/2022/12/04/150004.html",
 				
-				"content_html": "<p>❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "❤️\n\n<img src=\"https://gunnar.se/uploads/2022/4cbc60b928.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>❤️</p>\n<p><a href=\"https://gunnar.se/uploads/2022/4cbc60b928.jpg\"><img src=\"https://gunnar.se/uploads/2022/4cbc60b928.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "❤️\n\n[![](https://gunnar.se/uploads/2022/4cbc60b928.jpg)](https://gunnar.se/uploads/2022/4cbc60b928.jpg)\n",
 				"date_published": "2022-12-04T15:00:04+01:00",
 				"url": "https://gunnar.se/2022/12/04/150004.html",
 				"tags": ["Photos"]
@@ -93,8 +154,8 @@
 			{
 				"id": "http://g.micro.blog/2022/12/03/trffa-tomten.html",
 				
-				"content_html": "<p>Träffa tomten</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Träffa tomten\n\n<img src=\"https://gunnar.se/uploads/2022/877775d6c7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Träffa tomten</p>\n<p><a href=\"https://gunnar.se/uploads/2022/877775d6c7.jpg\"><img src=\"https://gunnar.se/uploads/2022/877775d6c7.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Träffa tomten\n\n[![](https://gunnar.se/uploads/2022/877775d6c7.jpg)](https://gunnar.se/uploads/2022/877775d6c7.jpg)\n",
 				"date_published": "2022-12-03T16:07:22+01:00",
 				"url": "https://gunnar.se/2022/12/03/trffa-tomten.html",
 				"tags": ["Photos"]
@@ -118,8 +179,8 @@
 			{
 				"id": "http://g.micro.blog/2022/12/03/p-besk-hos.html",
 				"title": "På besök hos Dr Mac",
-				"content_html": "<p>Satt i videomöte som vanligt en fredag eftermiddag. Plötsligt stänger bara datorn ner. En två månader gammal MacBook Pro 16&quot; M1 Pro som bara slocknar utan anledning. Sätter på den igen, startar upp teams. Samma sak, stänger ner. Gör några omstarter till innan jag bestämmer mig för att installera om Ventura. Två timmar senare bootar jag upp igen men det tar bara fem minuter innan datorn bootar om sig själv igen.</p>\n<p>Bokar in ett möte med en specialist hos Apple i Täby under söndagen, det här är bara för konstigt. När jag väl kommer dit <strong>hoppas</strong> jag att den ska bete sig lite konstigt i alla fall. Boris som tar hand om mig lyssnar på allt jag har gjort och förstår att detta inte är min första Mac. Han börjar att köra flera olika tester. Inför ett av dem så går han runt och varnar folk i närheten att <em>&ldquo;Den där datorn kommer att börja låta väldigt högt snart men det är inget farligt&rdquo;.</em> Och mycket riktigt, det tjuter något fruktansvärt.</p>\n<p>Efter att alla tester är klara så finns det nu papper på att datorn inte mår bra. Det visar sig att en minneskrets inte är som den ska och hela maskinen behöver skickas iväg på service. Och eftersom allt tydligen hänger ihop på något sätt så behöver de byta minne, logikkort, trackpad, tangentbord och även hårddisk. Bara att hålla tummarna.\nVid lunch på onsdagen hör de av sig och jag åker för att hämta upp. Efter en bra genomgång om vad som är gjort och ett kvitto på 14 000 kronor (kund betalar noll) så är allt precis som det ska vara. Och jag tänker att vad skönt att det här kom nu när den bara är två månader och inte två år.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Satt i videomöte som vanligt en fredag eftermiddag. Plötsligt stänger bara datorn ner. En två månader gammal MacBook Pro 16\" M1 Pro som bara slocknar utan anledning. Sätter på den igen, startar upp teams. Samma sak, stänger ner. Gör några omstarter till innan jag bestämmer mig för att installera om Ventura. Två timmar senare bootar jag upp igen men det tar bara fem minuter innan datorn bootar om sig själv igen. \n\nBokar in ett möte med en specialist hos Apple i Täby under söndagen, det här är bara för konstigt. När jag väl kommer dit **hoppas** jag att den ska bete sig lite konstigt i alla fall. Boris som tar hand om mig lyssnar på allt jag har gjort och förstår att detta inte är min första Mac. Han börjar att köra flera olika tester. Inför ett av dem så går han runt och varnar folk i närheten att _\"Den där datorn kommer att börja låta väldigt högt snart men det är inget farligt\"._ Och mycket riktigt, det tjuter något fruktansvärt. \n\nEfter att alla tester är klara så finns det nu papper på att datorn inte mår bra. Det visar sig att en minneskrets inte är som den ska och hela maskinen behöver skickas iväg på service. Och eftersom allt tydligen hänger ihop på något sätt så behöver de byta minne, logikkort, trackpad, tangentbord och även hårddisk. Bara att hålla tummarna.\nVid lunch på onsdagen hör de av sig och jag åker för att hämta upp. Efter en bra genomgång om vad som är gjort och ett kvitto på 14 000 kronor (kund betalar noll) så är allt precis som det ska vara. Och jag tänker att vad skönt att det här kom nu när den bara är två månader och inte två år. \n\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/78fcbcdf3b.jpg\" width=\"450\" height=\"600\" alt=\"Ett bord med lite sladdar och en vägg med en tv-skärm hos Apple Store i Täby\">\n",
+				"content_html": "<p>Satt i videomöte som vanligt en fredag eftermiddag. Plötsligt stänger bara datorn ner. En två månader gammal MacBook Pro 16&quot; M1 Pro som bara slocknar utan anledning. Sätter på den igen, startar upp teams. Samma sak, stänger ner. Gör några omstarter till innan jag bestämmer mig för att installera om Ventura. Två timmar senare bootar jag upp igen men det tar bara fem minuter innan datorn bootar om sig själv igen.</p>\n<p>Bokar in ett möte med en specialist hos Apple i Täby under söndagen, det här är bara för konstigt. När jag väl kommer dit <strong>hoppas</strong> jag att den ska bete sig lite konstigt i alla fall. Boris som tar hand om mig lyssnar på allt jag har gjort och förstår att detta inte är min första Mac. Han börjar att köra flera olika tester. Inför ett av dem så går han runt och varnar folk i närheten att <em>&ldquo;Den där datorn kommer att börja låta väldigt högt snart men det är inget farligt&rdquo;.</em> Och mycket riktigt, det tjuter något fruktansvärt.</p>\n<p>Efter att alla tester är klara så finns det nu papper på att datorn inte mår bra. Det visar sig att en minneskrets inte är som den ska och hela maskinen behöver skickas iväg på service. Och eftersom allt tydligen hänger ihop på något sätt så behöver de byta minne, logikkort, trackpad, tangentbord och även hårddisk. Bara att hålla tummarna.\nVid lunch på onsdagen hör de av sig och jag åker för att hämta upp. Efter en bra genomgång om vad som är gjort och ett kvitto på 14 000 kronor (kund betalar noll) så är allt precis som det ska vara. Och jag tänker att vad skönt att det här kom nu när den bara är två månader och inte två år.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/78fcbcdf3b.jpg\"><img src=\"https://gunnar.se/uploads/2022/78fcbcdf3b.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Satt i videomöte som vanligt en fredag eftermiddag. Plötsligt stänger bara datorn ner. En två månader gammal MacBook Pro 16\" M1 Pro som bara slocknar utan anledning. Sätter på den igen, startar upp teams. Samma sak, stänger ner. Gör några omstarter till innan jag bestämmer mig för att installera om Ventura. Två timmar senare bootar jag upp igen men det tar bara fem minuter innan datorn bootar om sig själv igen. \n\nBokar in ett möte med en specialist hos Apple i Täby under söndagen, det här är bara för konstigt. När jag väl kommer dit **hoppas** jag att den ska bete sig lite konstigt i alla fall. Boris som tar hand om mig lyssnar på allt jag har gjort och förstår att detta inte är min första Mac. Han börjar att köra flera olika tester. Inför ett av dem så går han runt och varnar folk i närheten att _\"Den där datorn kommer att börja låta väldigt högt snart men det är inget farligt\"._ Och mycket riktigt, det tjuter något fruktansvärt. \n\nEfter att alla tester är klara så finns det nu papper på att datorn inte mår bra. Det visar sig att en minneskrets inte är som den ska och hela maskinen behöver skickas iväg på service. Och eftersom allt tydligen hänger ihop på något sätt så behöver de byta minne, logikkort, trackpad, tangentbord och även hårddisk. Bara att hålla tummarna.\nVid lunch på onsdagen hör de av sig och jag åker för att hämta upp. Efter en bra genomgång om vad som är gjort och ett kvitto på 14 000 kronor (kund betalar noll) så är allt precis som det ska vara. Och jag tänker att vad skönt att det här kom nu när den bara är två månader och inte två år. \n\n[![](https://gunnar.se/uploads/2022/78fcbcdf3b.jpg)](https://gunnar.se/uploads/2022/78fcbcdf3b.jpg)\n",
 				"date_published": "2022-12-03T10:11:39+01:00",
 				"url": "https://gunnar.se/2022/12/03/p-besk-hos.html",
 				"tags": ["Photos","Long"]
@@ -192,7 +253,7 @@
 				"id": "http://g.micro.blog/2022/11/26/final-i-gr.html",
 				
 				"content_html": "<p>Final i går och säkerheten verkade ju sådär. Flera gånger såg man i sändningen publik som var uppe på scenen. Och snart är det Melodifestival.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Final i går och säkerheten verkade ju sådär. Flera gånger såg man i sändningen publik som var uppe på scenen. Och snart är det Melodifestival. \n\n<img src=\"https://gunnar.se/uploads/2022/d73e3abb9f.jpg\" width=\"600\" height=\"218\" alt=\"\">\n",
+				"content_text": "Final i går och säkerheten verkade ju sådär. Flera gånger såg man i sändningen publik som var uppe på scenen. Och snart är det Melodifestival. \n\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/d73e3abb9f.jpg\" width=\"600\" height=\"218\" alt=\"\">\n",
 				"date_published": "2022-11-26T11:37:42+01:00",
 				"url": "https://gunnar.se/2022/11/26/final-i-gr.html",
 				"tags": ["Photos"]
@@ -224,8 +285,8 @@
 			{
 				"id": "http://g.micro.blog/2022/11/23/204230.html",
 				
-				"content_html": "<p>Hello, World!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello, World!\n\n<img src=\"uploads/2022/d8418bbfc7.png\" width=\"600\" height=\"419\" alt=\"\">\n",
+				"content_html": "<p>Hello, World!</p>\n<p><a href=\"https://gunnar.se/uploads/2022/d8418bbfc7.png\"><img src=\"https://gunnar.se/uploads/2022/d8418bbfc7.png\" alt=\"\"></a></p>\n",
+				"content_text": "Hello, World!\n\n[![](https://gunnar.se/uploads/2022/d8418bbfc7.png)](https://gunnar.se/uploads/2022/d8418bbfc7.png)\n",
 				"date_published": "2022-11-23T20:42:30+01:00",
 				"url": "https://gunnar.se/2022/11/23/204230.html",
 				"tags": ["Photos"]
@@ -313,8 +374,8 @@
 			{
 				"id": "http://g.micro.blog/2022/11/14/okay-so-what.html",
 				
-				"content_html": "<p>Okay, so what is Kiwi? The new app getting described as the music version of BeReal.  <a href=\"https://kiwi-app.me/grj\">kiwi-app.me/gunnarr</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Okay, so what is Kiwi? The new app getting described as the music version of BeReal.  [kiwi-app.me/gunnarr](https://kiwi-app.me/grj) \n\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/decacc17de.jpg\" width=\"600\" height=\"306\" alt=\"\">\n",
+				"content_html": "<p>Okay, so what is Kiwi? The new app getting described as the music version of BeReal.  <a href=\"https://kiwi-app.me/grj\">kiwi-app.me/gunnarr</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/decacc17de.jpg\"><img src=\"https://gunnar.se/uploads/2022/decacc17de.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Okay, so what is Kiwi? The new app getting described as the music version of BeReal.  [kiwi-app.me/gunnarr](https://kiwi-app.me/grj) \n\n[![](https://gunnar.se/uploads/2022/decacc17de.jpg)](https://gunnar.se/uploads/2022/decacc17de.jpg)\n",
 				"date_published": "2022-11-14T21:58:47+01:00",
 				"url": "https://gunnar.se/2022/11/14/okay-so-what.html",
 				"tags": ["Photos"]
@@ -330,8 +391,8 @@
 			{
 				"id": "http://g.micro.blog/2022/11/13/161935.html",
 				
-				"content_html": "<p><!-- raw HTML omitted --></p>",
-				"content_text": "<!--more-->\n\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/1006db83d2.jpg\" width=\"600\" height=\"450\" alt=\"\">\t\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/1006db83d2.jpg\"><img src=\"https://gunnar.se/uploads/2022/1006db83d2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/1006db83d2.jpg)](https://gunnar.se/uploads/2022/1006db83d2.jpg)\n",
 				"date_published": "2022-11-13T16:19:35+01:00",
 				"url": "https://gunnar.se/2022/11/13/161935.html",
 				"tags": ["Photos"]
@@ -395,10 +456,11 @@
 			{
 				"id": "http://g.micro.blog/2022/11/08/biljett-p-rad.html",
 				
-				"content_html": "<p>Biljett på rad 1 i Stockholm 31 maj 2023! <a href=\"https://petergabriel.com/news/i-o-the-tour-announced/\">i/o The Tour announced - PeterGabriel.com</a></p>\n<!-- raw HTML omitted -->",
-				"content_text": "Biljett på rad 1 i Stockholm 31 maj 2023! [i/o The Tour announced - PeterGabriel.com](https://petergabriel.com/news/i-o-the-tour-announced/)\n<!--more-->\n<img src=\"https://gunnar.se/uploads/2022/f4fec49a2c.jpg\" alt=\"16 9 Landscape LN combo 1536x1152\" title=\"16_9-Landscape-LN-combo-1536x1152.jpg\" border=\"0\" width=\"1536\" height=\"1152\" />\n",
+				"content_html": "<p>Biljett på rad 1 i Stockholm 31 maj 2023! <a href=\"https://petergabriel.com/news/i-o-the-tour-announced/\">i/o The Tour announced - PeterGabriel.com</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/f4fec49a2c.jpg\"><img src=\"https://gunnar.se/uploads/2022/f4fec49a2c.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Biljett på rad 1 i Stockholm 31 maj 2023! [i/o The Tour announced - PeterGabriel.com](https://petergabriel.com/news/i-o-the-tour-announced/)\n\n[![](https://gunnar.se/uploads/2022/f4fec49a2c.jpg)](https://gunnar.se/uploads/2022/f4fec49a2c.jpg)\n",
 				"date_published": "2022-11-08T14:21:52+01:00",
-				"url": "https://gunnar.se/2022/11/08/biljett-p-rad.html"
+				"url": "https://gunnar.se/2022/11/08/biljett-p-rad.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://g.micro.blog/2022/11/07/hr-r-rets.html",
@@ -419,8 +481,8 @@
 			{
 				"id": "http://g.micro.blog/2022/11/06/sol-ute-sol.html",
 				
-				"content_html": "<p>Sol ute, sol inne, sol i hjärta, sol i sinne.</p>\n<!-- raw HTML omitted -->",
-				"content_text": "Sol ute, sol inne, sol i hjärta, sol i sinne.\n<!--more-->\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/1dd96463d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Sol ute, sol inne, sol i hjärta, sol i sinne.\n<a href=\"https://gunnar.se/uploads/2022/1dd96463d6.jpg\"><img src=\"https://gunnar.se/uploads/2022/1dd96463d6.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Sol ute, sol inne, sol i hjärta, sol i sinne.\n[![](https://gunnar.se/uploads/2022/1dd96463d6.jpg)](https://gunnar.se/uploads/2022/1dd96463d6.jpg)\n",
 				"date_published": "2022-11-06T12:23:11+01:00",
 				"url": "https://gunnar.se/2022/11/06/sol-ute-sol.html",
 				"tags": ["Photos"]
@@ -437,8 +499,8 @@
 			{
 				"id": "http://g.micro.blog/2022/11/05/en-favoritbok.html",
 				
-				"content_html": "<p>En favoritbok.</p>\n<!-- raw HTML omitted -->",
-				"content_text": "En favoritbok. \n<!--more-->\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/3eda835984.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>En favoritbok.\n<a href=\"https://gunnar.se/uploads/2022/3eda835984.jpg\"><img src=\"https://gunnar.se/uploads/2022/3eda835984.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "En favoritbok. \n[![](https://gunnar.se/uploads/2022/3eda835984.jpg)](https://gunnar.se/uploads/2022/3eda835984.jpg)\n",
 				"date_published": "2022-11-05T12:10:48+01:00",
 				"url": "https://gunnar.se/2022/11/05/en-favoritbok.html",
 				"tags": ["Photos"]
@@ -470,8 +532,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/31/columbarium-engelbrekts-frsamling.html",
 				
-				"content_html": "<p><a href=\"https://www.svenskakyrkan.se/engelbrekt/columbarium\">Columbarium - Engelbrekts församling</a></p>\n<p>Var stängt i dag men ska ta och kolla in någon dag.</p>\n<!-- raw HTML omitted -->",
-				"content_text": "[Columbarium - Engelbrekts församling](https://www.svenskakyrkan.se/engelbrekt/columbarium)\n\nVar stängt i dag men ska ta och kolla in någon dag. \n<!--more-->\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/52f56cb684.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><a href=\"https://www.svenskakyrkan.se/engelbrekt/columbarium\">Columbarium - Engelbrekts församling</a></p>\n<p>Var stängt i dag men ska ta och kolla in någon dag.\n<a href=\"https://gunnar.se/uploads/2022/52f56cb684.jpg\"><img src=\"https://gunnar.se/uploads/2022/52f56cb684.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[Columbarium - Engelbrekts församling](https://www.svenskakyrkan.se/engelbrekt/columbarium)\n\nVar stängt i dag men ska ta och kolla in någon dag. \n[![](https://gunnar.se/uploads/2022/52f56cb684.jpg)](https://gunnar.se/uploads/2022/52f56cb684.jpg)\n",
 				"date_published": "2022-10-31T21:47:24+01:00",
 				"url": "https://gunnar.se/2022/10/31/columbarium-engelbrekts-frsamling.html",
 				"tags": ["Photos"]
@@ -511,9 +573,9 @@
 			},
 			{
 				"id": "http://g.micro.blog/2022/10/30/evigt-liv-nobelprismuseet.html",
-				
-				"content_html": "<p>Evigt liv – Nobelprismuseet gästar Liljevalchs</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>",
-				"content_text": "Evigt liv – Nobelprismuseet gästar Liljevalchs\n\n<!--more-->\n\n<a href=\"https://gunnar.se/uploads/2022/f85b67cab5.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/f85b67cab5.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/45b5374ff4.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/45b5374ff4.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/68e58c0ced.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/68e58c0ced.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/b5b62f4c0b.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/b5b62f4c0b.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/aa40717502.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/aa40717502.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/8401545ae8.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/8401545ae8.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/4ab8135103.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/4ab8135103.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/bf7c087f01.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/bf7c087f01.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/28acee9bbb.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/28acee9bbb.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/131e3a9e23.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/131e3a9e23.jpg\"/></a>\n\n<a href=\"https://gunnar.se/uploads/2022/b6d5213d2b.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/b6d5213d2b.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/346672ffea.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/346672ffea.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/84d1aa6c62.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/84d1aa6c62.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/b3a9608723.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/b3a9608723.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/17bd626ba4.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/17bd626ba4.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/5ed23afc9a.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/5ed23afc9a.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/c0477c6554.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/c0477c6554.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/e611e03f2e.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/e611e03f2e.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/193c38deea.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/193c38deea.jpg\"/></a>\n<a href=\"https://gunnar.se/uploads/2022/4ff6c5c544.jpg\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/4ff6c5c544.jpg\"/></a>\n\n",
+				"title": "Evigt liv – Nobelprismuseet gästar Liljevalchs",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/f85b67cab5.jpg\"><img src=\"https://gunnar.se/uploads/2022/f85b67cab5.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/45b5374ff4.jpg\"><img src=\"https://gunnar.se/uploads/2022/45b5374ff4.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/68e58c0ced.jpg\"><img src=\"https://gunnar.se/uploads/2022/68e58c0ced.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/b5b62f4c0b.jpg\"><img src=\"https://gunnar.se/uploads/2022/b5b62f4c0b.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/aa40717502.jpg\"><img src=\"https://gunnar.se/uploads/2022/aa40717502.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/8401545ae8.jpg\"><img src=\"https://gunnar.se/uploads/2022/8401545ae8.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/4ab8135103.jpg\"><img src=\"https://gunnar.se/uploads/2022/4ab8135103.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/bf7c087f01.jpg\"><img src=\"https://gunnar.se/uploads/2022/bf7c087f01.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/28acee9bbb.jpg\"><img src=\"https://gunnar.se/uploads/2022/28acee9bbb.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/131e3a9e23.jpg\"><img src=\"https://gunnar.se/uploads/2022/131e3a9e23.jpg\" alt=\"\"></a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/b6d5213d2b.jpg\"><img src=\"https://gunnar.se/uploads/2022/b6d5213d2b.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/346672ffea.jpg\"><img src=\"https://gunnar.se/uploads/2022/346672ffea.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/84d1aa6c62.jpg\"><img src=\"https://gunnar.se/uploads/2022/84d1aa6c62.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/b3a9608723.jpg\"><img src=\"https://gunnar.se/uploads/2022/b3a9608723.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/17bd626ba4.jpg\"><img src=\"https://gunnar.se/uploads/2022/17bd626ba4.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/5ed23afc9a.jpg\"><img src=\"https://gunnar.se/uploads/2022/5ed23afc9a.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/c0477c6554.jpg\"><img src=\"https://gunnar.se/uploads/2022/c0477c6554.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/e611e03f2e.jpg\"><img src=\"https://gunnar.se/uploads/2022/e611e03f2e.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/e611e03f2e.jpg\"><img src=\"https://gunnar.se/uploads/2022/e611e03f2e.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/193c38deea.jpg\"><img src=\"https://gunnar.se/uploads/2022/193c38deea.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/4ff6c5c544.jpg\"><img src=\"https://gunnar.se/uploads/2022/4ff6c5c544.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/f85b67cab5.jpg)](https://gunnar.se/uploads/2022/f85b67cab5.jpg)\n[![](https://gunnar.se/uploads/2022/45b5374ff4.jpg)](https://gunnar.se/uploads/2022/45b5374ff4.jpg)\n[![](https://gunnar.se/uploads/2022/68e58c0ced.jpg)](https://gunnar.se/uploads/2022/68e58c0ced.jpg)\n[![](https://gunnar.se/uploads/2022/b5b62f4c0b.jpg)](https://gunnar.se/uploads/2022/b5b62f4c0b.jpg)\n[![](https://gunnar.se/uploads/2022/aa40717502.jpg)](https://gunnar.se/uploads/2022/aa40717502.jpg)\n[![](https://gunnar.se/uploads/2022/8401545ae8.jpg)](https://gunnar.se/uploads/2022/8401545ae8.jpg)\n[![](https://gunnar.se/uploads/2022/4ab8135103.jpg)](https://gunnar.se/uploads/2022/4ab8135103.jpg)\n[![](https://gunnar.se/uploads/2022/bf7c087f01.jpg)](https://gunnar.se/uploads/2022/bf7c087f01.jpg)\n[![](https://gunnar.se/uploads/2022/28acee9bbb.jpg)](https://gunnar.se/uploads/2022/28acee9bbb.jpg)\n[![](https://gunnar.se/uploads/2022/131e3a9e23.jpg)](https://gunnar.se/uploads/2022/131e3a9e23.jpg)\n\n[![](https://gunnar.se/uploads/2022/b6d5213d2b.jpg)](https://gunnar.se/uploads/2022/b6d5213d2b.jpg)\n[![](https://gunnar.se/uploads/2022/346672ffea.jpg)](https://gunnar.se/uploads/2022/346672ffea.jpg)\n[![](https://gunnar.se/uploads/2022/84d1aa6c62.jpg)](https://gunnar.se/uploads/2022/84d1aa6c62.jpg)\n[![](https://gunnar.se/uploads/2022/b3a9608723.jpg)](https://gunnar.se/uploads/2022/b3a9608723.jpg)\n[![](https://gunnar.se/uploads/2022/17bd626ba4.jpg)](https://gunnar.se/uploads/2022/17bd626ba4.jpg)\n[![](https://gunnar.se/uploads/2022/5ed23afc9a.jpg)](https://gunnar.se/uploads/2022/5ed23afc9a.jpg)\n[![](https://gunnar.se/uploads/2022/c0477c6554.jpg)](https://gunnar.se/uploads/2022/c0477c6554.jpg)\n[![](https://gunnar.se/uploads/2022/e611e03f2e.jpg)](https://gunnar.se/uploads/2022/e611e03f2e.jpg)\n[![](https://gunnar.se/uploads/2022/e611e03f2e.jpg)](https://gunnar.se/uploads/2022/e611e03f2e.jpg)\n[![](https://gunnar.se/uploads/2022/193c38deea.jpg)](https://gunnar.se/uploads/2022/193c38deea.jpg)\n[![](https://gunnar.se/uploads/2022/4ff6c5c544.jpg)](https://gunnar.se/uploads/2022/4ff6c5c544.jpg)\n",
 				"date_published": "2022-10-30T14:57:18+01:00",
 				"url": "https://gunnar.se/2022/10/30/evigt-liv-nobelprismuseet.html",
 				"tags": ["Photos"]
@@ -521,8 +583,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/30/ett-fullsatt-scalateatern.html",
 				
-				"content_html": "<p>Ett fullsatt Scalateatern jublade åt Dockhumor</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>",
-				"content_text": "Ett fullsatt Scalateatern jublade åt Dockhumor\n<!--more-->\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/5b21215b6f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/7f9ab3e245.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/607a45dc92.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Ett fullsatt Scalateatern jublade åt Dockhumor\n<a href=\"https://gunnar.se/uploads/2022/5b21215b6f.jpg\"><img src=\"https://gunnar.se/uploads/2022/5b21215b6f.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/7f9ab3e245.jpg\"><img src=\"https://gunnar.se/uploads/2022/7f9ab3e245.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/607a45dc92.jpg\"><img src=\"https://gunnar.se/uploads/2022/607a45dc92.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Ett fullsatt Scalateatern jublade åt Dockhumor\n[![](https://gunnar.se/uploads/2022/5b21215b6f.jpg)](https://gunnar.se/uploads/2022/5b21215b6f.jpg)\n[![](https://gunnar.se/uploads/2022/7f9ab3e245.jpg)](https://gunnar.se/uploads/2022/7f9ab3e245.jpg)\n[![](https://gunnar.se/uploads/2022/607a45dc92.jpg)](https://gunnar.se/uploads/2022/607a45dc92.jpg)\n",
 				"date_published": "2022-10-30T08:42:26+01:00",
 				"url": "https://gunnar.se/2022/10/30/ett-fullsatt-scalateatern.html",
 				"tags": ["Photos","live"]
@@ -562,8 +624,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/29/p-tv-i.html",
 				"title": "På tv i kväll – 1962, 1972, 1982, 1992 och 2002",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/457bb0cbec.jpg\" width=\"440\" height=\"600\" alt=\"\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/cce3057cec.jpg\" width=\"436\" height=\"600\" alt=\"\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/63d582ee35.jpg\" width=\"429\" height=\"600\" alt=\"\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/cc039827d9.jpg\" width=\"426\" height=\"600\" alt=\"\"><img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/2e75f80ff2.jpg\" width=\"417\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/457bb0cbec.jpg\"><img src=\"https://gunnar.se/uploads/2022/457bb0cbec.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/cce3057cec.jpg\"><img src=\"https://gunnar.se/uploads/2022/cce3057cec.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/63d582ee35.jpg\"><img src=\"https://gunnar.se/uploads/2022/63d582ee35.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/cc039827d9.jpg\"><img src=\"https://gunnar.se/uploads/2022/cc039827d9.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/2e75f80ff2.jpg\"><img src=\"https://gunnar.se/uploads/2022/2e75f80ff2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/457bb0cbec.jpg)](https://gunnar.se/uploads/2022/457bb0cbec.jpg)\n[![](https://gunnar.se/uploads/2022/cce3057cec.jpg)](https://gunnar.se/uploads/2022/cce3057cec.jpg)\n[![](https://gunnar.se/uploads/2022/63d582ee35.jpg)](https://gunnar.se/uploads/2022/63d582ee35.jpg)\n[![](https://gunnar.se/uploads/2022/cc039827d9.jpg)](https://gunnar.se/uploads/2022/cc039827d9.jpg)\n[![](https://gunnar.se/uploads/2022/2e75f80ff2.jpg)](https://gunnar.se/uploads/2022/2e75f80ff2.jpg)\n",
 				"date_published": "2022-10-29T13:46:57+01:00",
 				"url": "https://gunnar.se/2022/10/29/p-tv-i.html",
 				"tags": ["Photos","Long"]
@@ -579,8 +641,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/29/peter-lthberg-en.html",
 				"title": "Peter Löthberg  – en sann internetrebell",
-				"content_html": "<!-- raw HTML omitted -->\n<p>Rörande ikväll att se <strong>Peter Löthberg</strong> belönas för sina insatser av <strong>Kungl. Ingenjörsvetenskapsakademien (IVA)</strong>. Utan honom vet jag inte om vi hade varit så här uppkopplade. _”Vint Cerf sa att ja, jag uppfann det (Internet), men Peter såg till att det blev realiserbart i stor skala”. _</p>\n<p><a href=\"https://www.iva.se/publicerat/peter-lothberg/\">IVAs Guldmedalj 2022: Peter Löthberg - internetrebellen som kopplade ihop världen - IVA</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/46f75d8806.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\nRörande ikväll att se **Peter Löthberg** belönas för sina insatser av **Kungl. Ingenjörsvetenskapsakademien (IVA)**. Utan honom vet jag inte om vi hade varit så här uppkopplade. _”Vint Cerf sa att ja, jag uppfann det (Internet), men Peter såg till att det blev realiserbart i stor skala”. _\n\n[IVAs Guldmedalj 2022: Peter Löthberg - internetrebellen som kopplade ihop världen - IVA](https://www.iva.se/publicerat/peter-lothberg/)\n\n<iframe frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"width=\"788.54\" height=\"443\" type=\"text/html\" src=\"https://www.youtube.com/embed/Eu67hcjWrBI?autoplay=0&fs=0&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com\"></iframe> \n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/46f75d8806.jpg\"><img src=\"https://gunnar.se/uploads/2022/46f75d8806.jpg\" alt=\"\"></a></p>\n<p>Rörande ikväll att se <strong>Peter Löthberg</strong> belönas för sina insatser av <strong>Kungl. Ingenjörsvetenskapsakademien (IVA)</strong>. Utan honom vet jag inte om vi hade varit så här uppkopplade. _”Vint Cerf sa att ja, jag uppfann det (Internet), men Peter såg till att det blev realiserbart i stor skala”. _</p>\n<p><a href=\"https://www.iva.se/publicerat/peter-lothberg/\">IVAs Guldmedalj 2022: Peter Löthberg - internetrebellen som kopplade ihop världen - IVA</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/46f75d8806.jpg)](https://gunnar.se/uploads/2022/46f75d8806.jpg)\n\nRörande ikväll att se **Peter Löthberg** belönas för sina insatser av **Kungl. Ingenjörsvetenskapsakademien (IVA)**. Utan honom vet jag inte om vi hade varit så här uppkopplade. _”Vint Cerf sa att ja, jag uppfann det (Internet), men Peter såg till att det blev realiserbart i stor skala”. _\n\n[IVAs Guldmedalj 2022: Peter Löthberg - internetrebellen som kopplade ihop världen - IVA](https://www.iva.se/publicerat/peter-lothberg/)\n\n<iframe frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"width=\"788.54\" height=\"443\" type=\"text/html\" src=\"https://www.youtube.com/embed/Eu67hcjWrBI?autoplay=0&fs=0&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com\"></iframe> \n",
 				"date_published": "2022-10-28T23:31:51+01:00",
 				"url": "https://gunnar.se/2022/10/29/peter-lthberg-en.html",
 				"tags": ["Photos","Long"]
@@ -620,8 +682,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/16/now-midgeure-live.html",
 				
-				"content_html": "<p>Now @midgeure1 live at Slaktkyrkan in Stockholm #ultravox #midgeure</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @midgeure1 live at Slaktkyrkan in Stockholm #ultravox #midgeure\n\n\n<img src=\"https://micro.blog/photos/600x/https://gunnar.se/uploads/2022/d9d5ebe9a7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>Now @midgeure1 live at Slaktkyrkan in Stockholm #ultravox #midgeure</p>\n<p><a href=\"https://gunnar.se/uploads/2022/d9d5ebe9a7.jpg\"><img src=\"https://gunnar.se/uploads/2022/d9d5ebe9a7.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @midgeure1 live at Slaktkyrkan in Stockholm #ultravox #midgeure\n\n[![](https://gunnar.se/uploads/2022/d9d5ebe9a7.jpg)](https://gunnar.se/uploads/2022/d9d5ebe9a7.jpg)\n",
 				"date_published": "2022-10-16T20:11:43+01:00",
 				"url": "https://gunnar.se/2022/10/16/now-midgeure-live.html",
 				"tags": ["Photos","live"]
@@ -653,8 +715,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/09/ebuch-page.html",
 				
-				"content_html": "<p>ebu.ch 404-page</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "ebu.ch 404-page\n\n<img src=\"https://gunnar.se/uploads/2022/1d4deebc64.png\" width=\"600\" height=\"488\" alt=\"\">\n",
+				"content_html": "<p>ebu.ch 404-page</p>\n<p><a href=\"https://gunnar.se/uploads/2022/1d4deebc64.png\"><img src=\"https://gunnar.se/uploads/2022/1d4deebc64.png\" alt=\"\"></a></p>\n",
+				"content_text": "ebu.ch 404-page\n\n[![](https://gunnar.se/uploads/2022/1d4deebc64.png)](https://gunnar.se/uploads/2022/1d4deebc64.png)\n",
 				"date_published": "2022-10-09T12:01:14+01:00",
 				"url": "https://gunnar.se/2022/10/09/ebuch-page.html",
 				"tags": ["Photos"]
@@ -670,8 +732,8 @@
 			{
 				"id": "http://g.micro.blog/2022/10/03/morning.html",
 				
-				"content_html": "<p>Morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning\n\n<img src=\"https://gunnar.se/uploads/2022/4156364ea0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Morning</p>\n<p><a href=\"https://gunnar.se/uploads/2022/4156364ea0.jpg\"><img src=\"https://gunnar.se/uploads/2022/4156364ea0.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Morning\n\n[![](https://gunnar.se/uploads/2022/4156364ea0.jpg)](https://gunnar.se/uploads/2022/4156364ea0.jpg)\n",
 				"date_published": "2022-10-03T08:17:11+01:00",
 				"url": "https://gunnar.se/2022/10/03/morning.html",
 				"tags": ["Photos"]
@@ -719,8 +781,8 @@
 			{
 				"id": "http://g.micro.blog/2022/09/25/the-rock.html",
 				
-				"content_html": "<p>The rock</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The rock\n\n<img src=\"https://gunnar.se/uploads/2022/d36829481e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The rock</p>\n<p><a href=\"https://gunnar.se/uploads/2022/d36829481e.jpg\"><img src=\"https://gunnar.se/uploads/2022/d36829481e.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "The rock\n\n[![](https://gunnar.se/uploads/2022/d36829481e.jpg)](https://gunnar.se/uploads/2022/d36829481e.jpg)\n",
 				"date_published": "2022-09-25T08:54:59+01:00",
 				"url": "https://gunnar.se/2022/09/25/the-rock.html",
 				"tags": ["Photos"]
@@ -744,8 +806,8 @@
 			{
 				"id": "http://g.micro.blog/2022/09/21/sunshine.html",
 				
-				"content_html": "<p>Sunshine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunshine\n\n<img src=\"https://gunnar.se/uploads/2022/281d00cfa8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sunshine</p>\n<p><a href=\"https://gunnar.se/uploads/2022/281d00cfa8.jpg\"><img src=\"https://gunnar.se/uploads/2022/281d00cfa8.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Sunshine\n\n[![](https://gunnar.se/uploads/2022/281d00cfa8.jpg)](https://gunnar.se/uploads/2022/281d00cfa8.jpg)\n",
 				"date_published": "2022-09-21T13:19:45+01:00",
 				"url": "https://gunnar.se/2022/09/21/sunshine.html",
 				"tags": ["Photos"]
@@ -770,8 +832,8 @@
 			{
 				"id": "http://g.micro.blog/2022/09/18/singel-expressen-r.html",
 				"title": "Singel: Expressen 15 år (sid a)",
-				"content_html": "<p><strong>Visa för natten av Karl Gerhard</strong></p>\n<p>Sjungen 17 sept 1959 för Carl-Adam Nycop och andra &ldquo;medfyllande&rdquo; 50-åringar.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Visa för natten av Karl Gerhard**\n\nSjungen 17 sept 1959 för Carl-Adam Nycop och andra \"medfyllande\" 50-åringar.\n\n<audio controls=\"controls\" src=\"https://gunnar.se/uploads/2022/dca6704a76.mp3\" preload=\"metadata\" />\n\n<img src=\"https://gunnar.se/uploads/2022/e77724def3.jpg\" width=\"600\" height=\"591\" alt=\"\" />\n",
+				"content_html": "<p><strong>Visa för natten av Karl Gerhard</strong></p>\n<p>Sjungen 17 sept 1959 för Carl-Adam Nycop och andra &ldquo;medfyllande&rdquo; 50-åringar.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://gunnar.se/uploads/2022/e77724def3.jpg\"><img src=\"https://gunnar.se/uploads/2022/e77724def3.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "**Visa för natten av Karl Gerhard**\n\nSjungen 17 sept 1959 för Carl-Adam Nycop och andra \"medfyllande\" 50-åringar.\n\n<audio controls=\"controls\" src=\"https://gunnar.se/uploads/2022/dca6704a76.mp3\" preload=\"metadata\" />\n\n[![](https://gunnar.se/uploads/2022/e77724def3.jpg)](https://gunnar.se/uploads/2022/e77724def3.jpg)\n",
 				"date_published": "2022-09-18T17:41:39+01:00",
 				"url": "https://gunnar.se/2022/09/18/singel-expressen-r.html",
 				"tags": ["Photos","Long"]
@@ -787,8 +849,8 @@
 			{
 				"id": "http://g.micro.blog/2022/09/17/sunny-girl.html",
 				
-				"content_html": "<p>Sunny girl</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunny girl\n\n<img src=\"https://gunnar.se/uploads/2022/456ff2a28e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunny girl</p>\n<p><a href=\"https://gunnar.se/uploads/2022/456ff2a28e.jpg\"><img src=\"https://gunnar.se/uploads/2022/456ff2a28e.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Sunny girl\n\n[![](https://gunnar.se/uploads/2022/456ff2a28e.jpg)](https://gunnar.se/uploads/2022/456ff2a28e.jpg)\n",
 				"date_published": "2022-09-17T17:30:29+01:00",
 				"url": "https://gunnar.se/2022/09/17/sunny-girl.html",
 				"tags": ["Photos"]
@@ -892,8 +954,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/31/welcome-to-the.html",
 				
-				"content_html": "<p>Welcome to the Jungle</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Welcome to the Jungle\n\n<img src=\"https://gunnar.se/uploads/2022/c4a500b21d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Welcome to the Jungle</p>\n<p><a href=\"https://gunnar.se/uploads/2022/c4a500b21d.jpg\"><img src=\"https://gunnar.se/uploads/2022/c4a500b21d.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Welcome to the Jungle\n\n[![](https://gunnar.se/uploads/2022/c4a500b21d.jpg)](https://gunnar.se/uploads/2022/c4a500b21d.jpg)\n",
 				"date_published": "2022-08-31T08:28:23+01:00",
 				"url": "https://gunnar.se/2022/08/31/welcome-to-the.html",
 				"tags": ["Photos"]
@@ -917,8 +979,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/29/razor-blades-at.html",
 				
-				"content_html": "<p>Razor blades at work</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Razor blades at work\n\n<img src=\"https://gunnar.se/uploads/2022/97823c223c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Razor blades at work</p>\n<p><a href=\"https://gunnar.se/uploads/2022/97823c223c.jpg\"><img src=\"https://gunnar.se/uploads/2022/97823c223c.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Razor blades at work\n\n[![](https://gunnar.se/uploads/2022/97823c223c.jpg)](https://gunnar.se/uploads/2022/97823c223c.jpg)\n",
 				"date_published": "2022-08-29T06:46:21+01:00",
 				"url": "https://gunnar.se/2022/08/29/razor-blades-at.html",
 				"tags": ["Photos"]
@@ -942,8 +1004,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/27/max-a-genius.html",
 				"title": "The world's push notifications in a easy to follow stream",
-				"content_html": "<p>Max, a genius and good friend, has built a site that collects the world&rsquo;s push notifications from news apps (right now over 480 services). Pretty amazing. All he wants is to get user feedback about the service. I have received a whole caravan of invitations, do you want to try? Email me at <!-- raw HTML omitted --><a href=\"mailto:gunnar@gunnar.se\">gunnar@gunnar.se</a><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Max, a genius and good friend, has built a site that collects the world's push notifications from news apps (right now over 480 services). Pretty amazing. All he wants is to get user feedback about the service. I have received a whole caravan of invitations, do you want to try? Email me at <a mailto=\"gunnar@gunnar.se\">gunnar@gunnar.se</a> \n\n<img src=\"https://gunnar.se/uploads/2022/b1732d27c3.png\" width=\"600\" height=\"314\" alt=\"\" />\n",
+				"content_html": "<p>Max, a genius and good friend, has built a site that collects the world&rsquo;s push notifications from news apps (right now over 480 services). Pretty amazing. All he wants is to get user feedback about the service. I have received a whole caravan of invitations, do you want to try? Email me at <!-- raw HTML omitted --><a href=\"mailto:gunnar@gunnar.se\">gunnar@gunnar.se</a><!-- raw HTML omitted --></p>\n<p><a href=\"https://gunnar.se/uploads/2022/b1732d27c3.png\"><img src=\"https://gunnar.se/uploads/2022/b1732d27c3.png\" alt=\"\"></a></p>\n",
+				"content_text": "Max, a genius and good friend, has built a site that collects the world's push notifications from news apps (right now over 480 services). Pretty amazing. All he wants is to get user feedback about the service. I have received a whole caravan of invitations, do you want to try? Email me at <a mailto=\"gunnar@gunnar.se\">gunnar@gunnar.se</a> \n\n[![](https://gunnar.se/uploads/2022/b1732d27c3.png)](https://gunnar.se/uploads/2022/b1732d27c3.png)\n",
 				"date_published": "2022-08-27T08:22:44+01:00",
 				"url": "https://gunnar.se/2022/08/27/max-a-genius.html"
 			},
@@ -966,8 +1028,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/24/ahacom-in-malm.html",
 				
-				"content_html": "<p>👋🏻 @aha_com in Malmö</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "👋🏻 @aha_com in Malmö \n\n<img src=\"https://gunnar.se/uploads/2022/ac2be12c98.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>👋🏻 @aha_com in Malmö</p>\n<p><a href=\"https://gunnar.se/uploads/2022/ac2be12c98.jpg\"><img src=\"https://gunnar.se/uploads/2022/ac2be12c98.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "👋🏻 @aha_com in Malmö \n\n[![](https://gunnar.se/uploads/2022/ac2be12c98.jpg)](https://gunnar.se/uploads/2022/ac2be12c98.jpg)\n",
 				"date_published": "2022-08-24T16:17:40+01:00",
 				"url": "https://gunnar.se/2022/08/24/ahacom-in-malm.html",
 				"tags": ["Photos"]
@@ -975,8 +1037,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/24/now-vaughntan-on.html",
 				
-				"content_html": "<p>Now @vaughn_tan on how to organise innovation at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @vaughn_tan on how to organise innovation at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/14bef29ee3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Now @vaughn_tan on how to organise innovation at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/14bef29ee3.jpg\"><img src=\"https://gunnar.se/uploads/2022/14bef29ee3.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @vaughn_tan on how to organise innovation at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/14bef29ee3.jpg)](https://gunnar.se/uploads/2022/14bef29ee3.jpg)\n",
 				"date_published": "2022-08-24T12:28:25+01:00",
 				"url": "https://gunnar.se/2022/08/24/now-vaughntan-on.html",
 				"tags": ["Photos"]
@@ -1000,8 +1062,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/24/now-darjaisaksson-on.html",
 				
-				"content_html": "<p>Now @darjaisaksson on how to organise innovation at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @darjaisaksson on how to organise innovation at @theconfmalmo #theconf\n\n<img src=\"https://gunnar.se/uploads/2022/6c43bcb6e6.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Now @darjaisaksson on how to organise innovation at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/6c43bcb6e6.jpg\"><img src=\"https://gunnar.se/uploads/2022/6c43bcb6e6.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @darjaisaksson on how to organise innovation at @theconfmalmo #theconf\n\n[![](https://gunnar.se/uploads/2022/6c43bcb6e6.jpg)](https://gunnar.se/uploads/2022/6c43bcb6e6.jpg)\n",
 				"date_published": "2022-08-24T12:05:38+01:00",
 				"url": "https://gunnar.se/2022/08/24/now-darjaisaksson-on.html",
 				"tags": ["Photos"]
@@ -1017,8 +1079,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/24/now-tegabrain-at.html",
 				
-				"content_html": "<p>Now @tegabrain at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @tegabrain at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/1113de4c92.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Now @tegabrain at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/1113de4c92.jpg\"><img src=\"https://gunnar.se/uploads/2022/1113de4c92.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @tegabrain at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/1113de4c92.jpg)](https://gunnar.se/uploads/2022/1113de4c92.jpg)\n",
 				"date_published": "2022-08-24T09:25:03+01:00",
 				"url": "https://gunnar.se/2022/08/24/now-tegabrain-at.html",
 				"tags": ["Photos"]
@@ -1058,8 +1120,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/now-alicerawsthorn-at.html",
 				
-				"content_html": "<p>Now @alicerawsthorn at @theconfmalmo #theconf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Now @alicerawsthorn at @theconfmalmo #theconf\n\n<img src=\"https://gunnar.se/uploads/2022/b63fe891e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/13da7c0fe3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Now @alicerawsthorn at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/b63fe891e2.jpg\"><img src=\"https://gunnar.se/uploads/2022/b63fe891e2.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/13da7c0fe3.jpg\"><img src=\"https://gunnar.se/uploads/2022/13da7c0fe3.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @alicerawsthorn at @theconfmalmo #theconf\n\n[![](https://gunnar.se/uploads/2022/b63fe891e2.jpg)](https://gunnar.se/uploads/2022/b63fe891e2.jpg)\n[![](https://gunnar.se/uploads/2022/13da7c0fe3.jpg)](https://gunnar.se/uploads/2022/13da7c0fe3.jpg)\n",
 				"date_published": "2022-08-23T12:55:35+01:00",
 				"url": "https://gunnar.se/2022/08/23/now-alicerawsthorn-at.html",
 				"tags": ["Photos"]
@@ -1067,8 +1129,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/now-mayaonthenet-at.html",
 				
-				"content_html": "<p>Now @mayaonthenet at @theconfmalmo #theconf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Now @mayaonthenet at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/7c46675b41.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/123e86d9a2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Now @mayaonthenet at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/7c46675b41.jpg\"><img src=\"https://gunnar.se/uploads/2022/7c46675b41.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/123e86d9a2.jpg\"><img src=\"https://gunnar.se/uploads/2022/123e86d9a2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @mayaonthenet at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/7c46675b41.jpg)](https://gunnar.se/uploads/2022/7c46675b41.jpg)\n[![](https://gunnar.se/uploads/2022/123e86d9a2.jpg)](https://gunnar.se/uploads/2022/123e86d9a2.jpg)\n",
 				"date_published": "2022-08-23T11:08:31+01:00",
 				"url": "https://gunnar.se/2022/08/23/now-mayaonthenet-at.html",
 				"tags": ["Photos"]
@@ -1076,8 +1138,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/now-hillaryjuma-at.html",
 				
-				"content_html": "<p>Now @hillaryjuma_ at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @hillaryjuma_ at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/736f2c7efb.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Now @hillaryjuma_ at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/736f2c7efb.jpg\"><img src=\"https://gunnar.se/uploads/2022/736f2c7efb.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @hillaryjuma_ at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/736f2c7efb.jpg)](https://gunnar.se/uploads/2022/736f2c7efb.jpg)\n",
 				"date_published": "2022-08-23T10:56:42+01:00",
 				"url": "https://gunnar.se/2022/08/23/now-hillaryjuma-at.html",
 				"tags": ["Photos"]
@@ -1085,8 +1147,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/love-to-netnewswire.html",
 				
-				"content_html": "<p>Love to <a href=\"https://micro.blog/netnewswire\">@netnewswire</a> from <a href=\"https://micro.blog/genmon\">@genmon</a> at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Love to [@netnewswire](https://micro.blog/netnewswire) from [@genmon](https://micro.blog/genmon) at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/89427ec811.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Love to <a href=\"https://micro.blog/netnewswire\">@netnewswire</a> from <a href=\"https://micro.blog/genmon\">@genmon</a> at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/89427ec811.jpg\"><img src=\"https://gunnar.se/uploads/2022/89427ec811.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Love to [@netnewswire](https://micro.blog/netnewswire) from [@genmon](https://micro.blog/genmon) at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/89427ec811.jpg)](https://gunnar.se/uploads/2022/89427ec811.jpg)\n",
 				"date_published": "2022-08-23T10:52:11+01:00",
 				"url": "https://gunnar.se/2022/08/23/love-to-netnewswire.html",
 				"tags": ["Photos"]
@@ -1094,8 +1156,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/now-jordirocasan-at.html",
 				
-				"content_html": "<p>Now @jordirocasan at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @jordirocasan at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/dbdd90e26b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Now @jordirocasan at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/dbdd90e26b.jpg\"><img src=\"https://gunnar.se/uploads/2022/dbdd90e26b.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @jordirocasan at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/dbdd90e26b.jpg)](https://gunnar.se/uploads/2022/dbdd90e26b.jpg)\n",
 				"date_published": "2022-08-23T10:47:15+01:00",
 				"url": "https://gunnar.se/2022/08/23/now-jordirocasan-at.html",
 				"tags": ["Photos"]
@@ -1103,8 +1165,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/now-jocxy-at.html",
 				
-				"content_html": "<p>Now @jocxy at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now @jocxy at @theconfmalmo #theconf \n\n<img src=\"https://gunnar.se/uploads/2022/9e88b55692.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Now @jocxy at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/9e88b55692.jpg\"><img src=\"https://gunnar.se/uploads/2022/9e88b55692.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now @jocxy at @theconfmalmo #theconf \n\n[![](https://gunnar.se/uploads/2022/9e88b55692.jpg)](https://gunnar.se/uploads/2022/9e88b55692.jpg)\n",
 				"date_published": "2022-08-23T10:41:40+01:00",
 				"url": "https://gunnar.se/2022/08/23/now-jocxy-at.html",
 				"tags": ["Photos"]
@@ -1112,8 +1174,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/23/now-genmon-at.html",
 				
-				"content_html": "<p>Now <a href=\"https://micro.blog/genmon\">@genmon</a> at @theconfmalmo #theconf</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now [@genmon](https://micro.blog/genmon) at @theconfmalmo #theconf\n\n<img src=\"https://gunnar.se/uploads/2022/a7ef37c6e2.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Now <a href=\"https://micro.blog/genmon\">@genmon</a> at @theconfmalmo #theconf</p>\n<p><a href=\"https://gunnar.se/uploads/2022/a7ef37c6e2.jpg\"><img src=\"https://gunnar.se/uploads/2022/a7ef37c6e2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Now [@genmon](https://micro.blog/genmon) at @theconfmalmo #theconf\n\n[![](https://gunnar.se/uploads/2022/a7ef37c6e2.jpg)](https://gunnar.se/uploads/2022/a7ef37c6e2.jpg)\n",
 				"date_published": "2022-08-23T10:39:37+01:00",
 				"url": "https://gunnar.se/2022/08/23/now-genmon-at.html",
 				"tags": ["Photos"]
@@ -1137,8 +1199,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/21/biokvll-i-rlis.html",
 				
-				"content_html": "<p>Biokväll i Rålis</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Biokväll i Rålis\n\n<img src=\"https://gunnar.se/uploads/2022/b1c7cb014f.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/570095553b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Biokväll i Rålis</p>\n<p><a href=\"https://gunnar.se/uploads/2022/b1c7cb014f.jpg\"><img src=\"https://gunnar.se/uploads/2022/b1c7cb014f.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/570095553b.jpg\"><img src=\"https://gunnar.se/uploads/2022/570095553b.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Biokväll i Rålis\n\n[![](https://gunnar.se/uploads/2022/b1c7cb014f.jpg)](https://gunnar.se/uploads/2022/b1c7cb014f.jpg)\n[![](https://gunnar.se/uploads/2022/570095553b.jpg)](https://gunnar.se/uploads/2022/570095553b.jpg)\n",
 				"date_published": "2022-08-21T21:11:47+01:00",
 				"url": "https://gunnar.se/2022/08/21/biokvll-i-rlis.html",
 				"tags": ["Photos"]
@@ -1162,8 +1224,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/21/gunnadrinks-looks-good.html",
 				
-				"content_html": "<p>! @gunnadrinks Looks good. <a href=\"https://gunnadrinks.com/\">gunnadrinks.com</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "! @gunnadrinks Looks good. [gunnadrinks.com](https://gunnadrinks.com/)\n\n\n<img src=\"https://gunnar.se/uploads/2022/9e87e46714.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/4dc445d28e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/d76de8be8c.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/dc1956a62b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>@gunnadrinks Looks good. <a href=\"https://gunnadrinks.com/\">gunnadrinks.com</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/9e87e46714.jpg\"><img src=\"https://gunnar.se/uploads/2022/9e87e46714.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/4dc445d28e.jpg\"><img src=\"https://gunnar.se/uploads/2022/4dc445d28e.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/d76de8be8c.jpg\"><img src=\"https://gunnar.se/uploads/2022/d76de8be8c.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/dc1956a62b.jpg\"><img src=\"https://gunnar.se/uploads/2022/dc1956a62b.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "@gunnadrinks Looks good. [gunnadrinks.com](https://gunnadrinks.com/)\n\n[![](https://gunnar.se/uploads/2022/9e87e46714.jpg)](https://gunnar.se/uploads/2022/9e87e46714.jpg)\n[![](https://gunnar.se/uploads/2022/4dc445d28e.jpg)](https://gunnar.se/uploads/2022/4dc445d28e.jpg)\n[![](https://gunnar.se/uploads/2022/d76de8be8c.jpg)](https://gunnar.se/uploads/2022/d76de8be8c.jpg)\n[![](https://gunnar.se/uploads/2022/dc1956a62b.jpg)](https://gunnar.se/uploads/2022/dc1956a62b.jpg)\n",
 				"date_published": "2022-08-21T16:46:12+01:00",
 				"url": "https://gunnar.se/2022/08/21/gunnadrinks-looks-good.html",
 				"tags": ["Photos"]
@@ -1171,8 +1233,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/21/just-leaf-it.html",
 				
-				"content_html": "<p>Just leaf it</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just leaf it\n\n\n<img src=\"https://gunnar.se/uploads/2022/5fb058f3b2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Just leaf it</p>\n<p><a href=\"https://gunnar.se/uploads/2022/5fb058f3b2.jpg\"><img src=\"https://gunnar.se/uploads/2022/5fb058f3b2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Just leaf it\n\n[![](https://gunnar.se/uploads/2022/5fb058f3b2.jpg)](https://gunnar.se/uploads/2022/5fb058f3b2.jpg)\n",
 				"date_published": "2022-08-21T10:09:54+01:00",
 				"url": "https://gunnar.se/2022/08/21/just-leaf-it.html",
 				"tags": ["Photos"]
@@ -1188,8 +1250,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/20/internet-p-jobbet.html",
 				
-				"content_html": "<p>Internet på jobbet kan vara som att dra i snöret på Gröna Lund.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Internet på jobbet kan vara som att dra i snöret på Gröna Lund. \n\n<img src=\"https://gunnar.se/uploads/2022/f7e063b190.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Internet på jobbet kan vara som att dra i snöret på Gröna Lund.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/f7e063b190.jpg\"><img src=\"https://gunnar.se/uploads/2022/f7e063b190.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Internet på jobbet kan vara som att dra i snöret på Gröna Lund. \n\n[![](https://gunnar.se/uploads/2022/f7e063b190.jpg)](https://gunnar.se/uploads/2022/f7e063b190.jpg)\n",
 				"date_published": "2022-08-20T10:02:45+01:00",
 				"url": "https://gunnar.se/2022/08/20/internet-p-jobbet.html",
 				"tags": ["Photos"]
@@ -1205,8 +1267,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/18/bubble-party-stockholm.html",
 				
-				"content_html": "<p>Bubble party @ Stockholm Filmfestival Rålis</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Bubble party @ Stockholm Filmfestival Rålis\n\n<img src=\"https://gunnar.se/uploads/2022/f726c268fc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gunnar.se/uploads/2022/c12f61d2c4.mov\" width=\"360\" height=\"640\" poster=\"https://gunnar.se/uploads/2022/30b2c15285.png\" preload=\"none\"></video>\n",
+				"content_html": "<p>Bubble party @ Stockholm Filmfestival Rålis</p>\n<p><a href=\"https://gunnar.se/uploads/2022/f726c268fc.jpg\"><img src=\"https://gunnar.se/uploads/2022/f726c268fc.jpg\" alt=\"\"></a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Bubble party @ Stockholm Filmfestival Rålis\n\n[![](https://gunnar.se/uploads/2022/f726c268fc.jpg)](https://gunnar.se/uploads/2022/f726c268fc.jpg)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gunnar.se/uploads/2022/c12f61d2c4.mov\" width=\"360\" height=\"640\" poster=\"https://gunnar.se/uploads/2022/30b2c15285.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-08-18T20:01:47+01:00",
 				"url": "https://gunnar.se/2022/08/18/bubble-party-stockholm.html",
 				"tags": ["Photos"]
@@ -1223,8 +1285,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/18/svt-techsprint.html",
 				
-				"content_html": "<p>SVT Techsprint 2022</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "SVT Techsprint 2022 \n\n<img src=\"https://gunnar.se/uploads/2022/368a6722c8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>SVT Techsprint 2022</p>\n<p><a href=\"https://gunnar.se/uploads/2022/368a6722c8.jpg\"><img src=\"https://gunnar.se/uploads/2022/368a6722c8.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "SVT Techsprint 2022 \n\n[![](https://gunnar.se/uploads/2022/368a6722c8.jpg)](https://gunnar.se/uploads/2022/368a6722c8.jpg)\n",
 				"date_published": "2022-08-18T13:02:22+01:00",
 				"url": "https://gunnar.se/2022/08/18/svt-techsprint.html",
 				"tags": ["Photos"]
@@ -1240,10 +1302,11 @@
 			{
 				"id": "http://g.micro.blog/2022/08/16/filled-with-light.html",
 				
-				"content_html": "<p>Filled with Light, An A-Frame House Designed by Naturvillan Functions Entirely Off the Grid <a href=\"https://www.thisiscolossal.com/2022/08/naturvillan-atri-house/\">www.thisiscolossal.com/2022/08/n&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Filled with Light, An A-Frame House Designed by Naturvillan Functions Entirely Off the Grid [www.thisiscolossal.com/2022/08/n...](https://www.thisiscolossal.com/2022/08/naturvillan-atri-house/)\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://gunnar.se/uploads/2022/0aba2f5d5b.jpg\" alt=\"68747470733a2f2f7777772e746869736973636f6c6f7373616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f6e6174757276696c6c612d312e6a7067\" title=\"68747470733a2f2f7777772e746869736973636f6c6f7373616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f6e6174757276696c6c612d312e6a7067.jpeg\" border=\"0\" width=\"600\" height=\"495\" />\n",
+				"content_html": "<p>Filled with Light, An A-Frame House Designed by Naturvillan Functions Entirely Off the Grid <a href=\"https://www.thisiscolossal.com/2022/08/naturvillan-atri-house/\">www.thisiscolossal.com/2022/08/n&hellip;</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/0aba2f5d5b.jpg\"><img src=\"https://gunnar.se/uploads/2022/0aba2f5d5b.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Filled with Light, An A-Frame House Designed by Naturvillan Functions Entirely Off the Grid [www.thisiscolossal.com/2022/08/n...](https://www.thisiscolossal.com/2022/08/naturvillan-atri-house/)\n\n[![](https://gunnar.se/uploads/2022/0aba2f5d5b.jpg)](https://gunnar.se/uploads/2022/0aba2f5d5b.jpg)\n",
 				"date_published": "2022-08-16T10:13:49+01:00",
-				"url": "https://gunnar.se/2022/08/16/filled-with-light.html"
+				"url": "https://gunnar.se/2022/08/16/filled-with-light.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://g.micro.blog/2022/08/16/morgonstund-by-bibliotek.html",
@@ -1256,8 +1319,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/14/klf-is-gonna.html",
 				
-				"content_html": "<p>KLF is gonna rock ya (are you ready?)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "KLF is gonna rock ya (are you ready?)\n\n<img src=\"https://gunnar.se/uploads/2022/076ba5bea2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>KLF is gonna rock ya (are you ready?)</p>\n<p><a href=\"https://gunnar.se/uploads/2022/076ba5bea2.jpg\"><img src=\"https://gunnar.se/uploads/2022/076ba5bea2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "KLF is gonna rock ya (are you ready?)\n\n[![](https://gunnar.se/uploads/2022/076ba5bea2.jpg)](https://gunnar.se/uploads/2022/076ba5bea2.jpg)\n",
 				"date_published": "2022-08-14T15:07:15+01:00",
 				"url": "https://gunnar.se/2022/08/14/klf-is-gonna.html",
 				"tags": ["Photos"]
@@ -1297,8 +1360,8 @@
 			{
 				"id": "http://g.micro.blog/2022/08/13/stockholm-by-night.html",
 				
-				"content_html": "<p>Stockholm By Night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Stockholm By Night\n\n<img src=\"https://gunnar.se/uploads/2022/f7813f6f2e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://gunnar.se/uploads/2022/448edfd39a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Stockholm By Night</p>\n<p><a href=\"https://gunnar.se/uploads/2022/f7813f6f2e.jpg\"><img src=\"https://gunnar.se/uploads/2022/f7813f6f2e.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/448edfd39a.jpg\"><img src=\"https://gunnar.se/uploads/2022/448edfd39a.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Stockholm By Night\n\n[![](https://gunnar.se/uploads/2022/f7813f6f2e.jpg)](https://gunnar.se/uploads/2022/f7813f6f2e.jpg)\n[![](https://gunnar.se/uploads/2022/448edfd39a.jpg)](https://gunnar.se/uploads/2022/448edfd39a.jpg)\n",
 				"date_published": "2022-08-13T09:00:07+01:00",
 				"url": "https://gunnar.se/2022/08/13/stockholm-by-night.html",
 				"tags": ["Photos"]
@@ -1378,8 +1441,8 @@
 			{
 				"id": "http://g.micro.blog/2022/07/10/hagaparken.html",
 				
-				"content_html": "<p>Hagaparken</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hagaparken\n\n<img src=\"https://g.micro.blog/uploads/2022/c48851799c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Hagaparken</p>\n<p><a href=\"https://gunnar.se/uploads/2022/c48851799c.jpg\"><img src=\"https://gunnar.se/uploads/2022/c48851799c.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Hagaparken\n\n[![](https://gunnar.se/uploads/2022/c48851799c.jpg)](https://gunnar.se/uploads/2022/c48851799c.jpg)\n",
 				"date_published": "2022-07-10T19:48:18+01:00",
 				"url": "https://gunnar.se/2022/07/10/hagaparken.html",
 				"tags": ["Photos"]
@@ -1411,8 +1474,8 @@
 			{
 				"id": "http://g.micro.blog/2022/07/09/badpojkar.html",
 				
-				"content_html": "<p>Badpojkar</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Badpojkar\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/451b9671c6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Badpojkar</p>\n<p><a href=\"https://gunnar.se/uploads/2022/451b9671c6.jpg\"><img src=\"https://gunnar.se/uploads/2022/451b9671c6.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Badpojkar\n\n[![](https://gunnar.se/uploads/2022/451b9671c6.jpg)](https://gunnar.se/uploads/2022/451b9671c6.jpg)\n",
 				"date_published": "2022-07-09T12:42:18+01:00",
 				"url": "https://gunnar.se/2022/07/09/badpojkar.html",
 				"tags": ["Photos"]
@@ -1420,8 +1483,8 @@
 			{
 				"id": "http://g.micro.blog/2022/07/02/lollapalooza-stockholm-i.html",
 				
-				"content_html": "<p><strong>Lollapalooza Stockholm</strong> i dag för mig tillsammans med 14-åringen som har sin festivalpremiär. Stort ögonblick.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Lollapalooza Stockholm** i dag för mig tillsammans med 14-åringen som har sin festivalpremiär. Stort ögonblick. \n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/5e60242489.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><strong>Lollapalooza Stockholm</strong> i dag för mig tillsammans med 14-åringen som har sin festivalpremiär. Stort ögonblick.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/5e60242489.jpg\"><img src=\"https://gunnar.se/uploads/2022/5e60242489.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "**Lollapalooza Stockholm** i dag för mig tillsammans med 14-åringen som har sin festivalpremiär. Stort ögonblick. \n\n[![](https://gunnar.se/uploads/2022/5e60242489.jpg)](https://gunnar.se/uploads/2022/5e60242489.jpg)\n",
 				"date_published": "2022-07-02T09:42:34+01:00",
 				"url": "https://gunnar.se/2022/07/02/lollapalooza-stockholm-i.html",
 				"tags": ["Photos","live"]
@@ -1437,8 +1500,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/30/random-gteborg.html",
 				
-				"content_html": "<p>Random Göteborg</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Random Göteborg\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/05063b5b22.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/cce0515952.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/446f61c251.jpg\" width=\"600\" height=\"337\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/e78a5525e7.jpg\" width=\"337\" height=\"600\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/024d69e841.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/c97a7098f0.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/8ebd538633.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/b80e01a97b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/2cb5ebeea9.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/dc31c37fb0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://g.micro.blog/uploads/2022/b0b1376925.mov\" width=\"360\" height=\"640\" poster=\"https://g.micro.blog/uploads/2022/de1727ffc4.png\" preload=\"none\"></video>\n",
+				"content_html": "<p>Random Göteborg</p>\n<p><a href=\"https://gunnar.se/uploads/2022/05063b5b22.jpg\"><img src=\"https://gunnar.se/uploads/2022/05063b5b22.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/cce0515952.jpg\"><img src=\"https://gunnar.se/uploads/2022/cce0515952.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/446f61c251.jpg\"><img src=\"https://gunnar.se/uploads/2022/446f61c251.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/e78a5525e7.jpg\"><img src=\"https://gunnar.se/uploads/2022/e78a5525e7.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/024d69e841.jpg\"><img src=\"https://gunnar.se/uploads/2022/024d69e841.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/c97a7098f0.jpg\"><img src=\"https://gunnar.se/uploads/2022/c97a7098f0.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/8ebd538633.jpg\"><img src=\"https://gunnar.se/uploads/2022/8ebd538633.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/b80e01a97b.jpg\"><img src=\"https://gunnar.se/uploads/2022/b80e01a97b.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/2cb5ebeea9.jpg\"><img src=\"https://gunnar.se/uploads/2022/2cb5ebeea9.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/dc31c37fb0.jpg\"><img src=\"https://gunnar.se/uploads/2022/dc31c37fb0.jpg\" alt=\"\"></a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Random Göteborg\n\n[![](https://gunnar.se/uploads/2022/05063b5b22.jpg)](https://gunnar.se/uploads/2022/05063b5b22.jpg)\n[![](https://gunnar.se/uploads/2022/cce0515952.jpg)](https://gunnar.se/uploads/2022/cce0515952.jpg)\n[![](https://gunnar.se/uploads/2022/446f61c251.jpg)](https://gunnar.se/uploads/2022/446f61c251.jpg)\n[![](https://gunnar.se/uploads/2022/e78a5525e7.jpg)](https://gunnar.se/uploads/2022/e78a5525e7.jpg)\n[![](https://gunnar.se/uploads/2022/024d69e841.jpg)](https://gunnar.se/uploads/2022/024d69e841.jpg)\n[![](https://gunnar.se/uploads/2022/c97a7098f0.jpg)](https://gunnar.se/uploads/2022/c97a7098f0.jpg)\n[![](https://gunnar.se/uploads/2022/8ebd538633.jpg)](https://gunnar.se/uploads/2022/8ebd538633.jpg)\n[![](https://gunnar.se/uploads/2022/b80e01a97b.jpg)](https://gunnar.se/uploads/2022/b80e01a97b.jpg)\n[![](https://gunnar.se/uploads/2022/2cb5ebeea9.jpg)](https://gunnar.se/uploads/2022/2cb5ebeea9.jpg)\n[![](https://gunnar.se/uploads/2022/dc31c37fb0.jpg)](https://gunnar.se/uploads/2022/dc31c37fb0.jpg)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://gunnar.se/uploads/2022/b0b1376925.mov\" width=\"360\" height=\"640\" poster=\"https://gunnar.se/uploads/2022/de1727ffc4.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-06-30T13:01:32+01:00",
 				"url": "https://gunnar.se/2022/06/30/random-gteborg.html",
 				"tags": ["Photos"]
@@ -1462,8 +1525,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/21/friends.html",
 				
-				"content_html": "<p>Friends.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Friends. \n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/f723578d8f.jpg\" width=\"600\" height=\"598\" alt=\"\" />\n",
+				"content_html": "<p>Friends.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/f723578d8f.jpg\"><img src=\"https://gunnar.se/uploads/2022/f723578d8f.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Friends. \n\n[![](https://gunnar.se/uploads/2022/f723578d8f.jpg)](https://gunnar.se/uploads/2022/f723578d8f.jpg)\n",
 				"date_published": "2022-06-21T12:30:30+01:00",
 				"url": "https://gunnar.se/2022/06/21/friends.html",
 				"tags": ["Photos"]
@@ -1471,8 +1534,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/21/karl-bartos-in.html",
 				"title": "Karl Bartos in conversation with Jude Rogers",
-				"content_html": "<p><a href=\"https://www.bl.uk/events/the-sound-of-the-machine-my-life-in-kraftwerk-and-beyond\">The Sound of the Machine My Life in Kraftwerk and Beyond - The British Library</a></p>\n<blockquote>\n<p>This event will take place at the British Library. It will be simultaneously live streamed on the British Library platform. Tickets may be booked either to attend in person (physical), or to watch on our platform (online) either live or within 48 hours on catch up. Viewing links will be sent out shortly before the event.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The Sound of the Machine My Life in Kraftwerk and Beyond - The British Library](https://www.bl.uk/events/the-sound-of-the-machine-my-life-in-kraftwerk-and-beyond)\n\n>This event will take place at the British Library. It will be simultaneously live streamed on the British Library platform. Tickets may be booked either to attend in person (physical), or to watch on our platform (online) either live or within 48 hours on catch up. Viewing links will be sent out shortly before the event.\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/b7e1e132c2.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://www.bl.uk/events/the-sound-of-the-machine-my-life-in-kraftwerk-and-beyond\">The Sound of the Machine My Life in Kraftwerk and Beyond - The British Library</a></p>\n<blockquote>\n<p>This event will take place at the British Library. It will be simultaneously live streamed on the British Library platform. Tickets may be booked either to attend in person (physical), or to watch on our platform (online) either live or within 48 hours on catch up. Viewing links will be sent out shortly before the event.</p>\n</blockquote>\n<p><a href=\"https://gunnars.se/uploads/2022/b7e1e132c2.jpg\"><img src=\"https://gunnars.se/uploads/2022/b7e1e132c2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[The Sound of the Machine My Life in Kraftwerk and Beyond - The British Library](https://www.bl.uk/events/the-sound-of-the-machine-my-life-in-kraftwerk-and-beyond)\n\n>This event will take place at the British Library. It will be simultaneously live streamed on the British Library platform. Tickets may be booked either to attend in person (physical), or to watch on our platform (online) either live or within 48 hours on catch up. Viewing links will be sent out shortly before the event.\n\n[![](https://gunnars.se/uploads/2022/b7e1e132c2.jpg)](https://gunnars.se/uploads/2022/b7e1e132c2.jpg)\n",
 				"date_published": "2022-06-21T08:26:49+01:00",
 				"url": "https://gunnar.se/2022/06/21/karl-bartos-in.html",
 				"tags": ["Photos","Long"]
@@ -1480,8 +1543,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/20/robert-broberg.html",
 				
-				"content_html": "<p>Robert Broberg?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Robert Broberg?\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/64f4c2ad0c.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Robert Broberg?</p>\n<p><a href=\"https://gunnar.se/uploads/2022/64f4c2ad0c.jpg\"><img src=\"https://gunnar.se/uploads/2022/64f4c2ad0c.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Robert Broberg?\n\n[![](https://gunnar.se/uploads/2022/64f4c2ad0c.jpg)](https://gunnar.se/uploads/2022/64f4c2ad0c.jpg)\n",
 				"date_published": "2022-06-20T06:58:15+01:00",
 				"url": "https://gunnar.se/2022/06/20/robert-broberg.html",
 				"tags": ["Photos"]
@@ -1489,8 +1552,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/16/thursday.html",
 				
-				"content_html": "<p>Thursday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thursday\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/53dff8f30b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Thursday</p>\n<p><a href=\"https://gunnar.se/uploads/2022/53dff8f30b.jpg\"><img src=\"https://gunnar.se/uploads/2022/53dff8f30b.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Thursday\n\n[![](https://gunnar.se/uploads/2022/53dff8f30b.jpg)](https://gunnar.se/uploads/2022/53dff8f30b.jpg)\n",
 				"date_published": "2022-06-16T18:36:08+01:00",
 				"url": "https://gunnar.se/2022/06/16/thursday.html",
 				"tags": ["Photos"]
@@ -1498,8 +1561,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/15/115748.html",
 				"title": "Puss alla från Öland 😘",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/7d79ea78ee.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/3e894e93d9.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/9f25046218.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/f395f2fecf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/7d79ea78ee.jpg\"><img src=\"https://gunnar.se/uploads/2022/7d79ea78ee.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/3e894e93d9.jpg\"><img src=\"https://gunnar.se/uploads/2022/3e894e93d9.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/9f25046218.jpg\"><img src=\"https://gunnar.se/uploads/2022/9f25046218.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/f395f2fecf.jpg\"><img src=\"https://gunnar.se/uploads/2022/f395f2fecf.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/7d79ea78ee.jpg)](https://gunnar.se/uploads/2022/7d79ea78ee.jpg)\n[![](https://gunnar.se/uploads/2022/3e894e93d9.jpg)](https://gunnar.se/uploads/2022/3e894e93d9.jpg)\n[![](https://gunnar.se/uploads/2022/9f25046218.jpg)](https://gunnar.se/uploads/2022/9f25046218.jpg)\n[![](https://gunnar.se/uploads/2022/f395f2fecf.jpg)](https://gunnar.se/uploads/2022/f395f2fecf.jpg)\n",
 				"date_published": "2022-06-15T10:57:48+01:00",
 				"url": "https://gunnar.se/2022/06/15/115748.html",
 				"tags": ["Photos","Long"]
@@ -1523,8 +1586,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/11/crash-boom-bang.html",
 				
-				"content_html": "<p>Crash! Boom! Bang!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Crash! Boom! Bang!\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/4b1e078ef7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Crash! Boom! Bang!</p>\n<p><a href=\"https://gunnar.se/uploads/2022/4b1e078ef7.jpg\"><img src=\"https://gunnar.se/uploads/2022/4b1e078ef7.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Crash! Boom! Bang!\n\n[![](https://gunnar.se/uploads/2022/4b1e078ef7.jpg)](https://gunnar.se/uploads/2022/4b1e078ef7.jpg)\n",
 				"date_published": "2022-06-11T11:48:01+01:00",
 				"url": "https://gunnar.se/2022/06/11/crash-boom-bang.html",
 				"tags": ["Photos"]
@@ -1540,8 +1603,8 @@
 			{
 				"id": "http://g.micro.blog/2022/06/06/ping-odd.html",
 				
-				"content_html": "<p>Ping <a href=\"https://micro.blog/odd\">@odd</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ping [@odd](https://micro.blog/odd) \n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/d276b06500.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ping <a href=\"https://micro.blog/odd\">@odd</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/d276b06500.jpg\"><img src=\"https://gunnar.se/uploads/2022/d276b06500.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Ping [@odd](https://micro.blog/odd) \n\n[![](https://gunnar.se/uploads/2022/d276b06500.jpg)](https://gunnar.se/uploads/2022/d276b06500.jpg)\n",
 				"date_published": "2022-06-06T14:54:31+01:00",
 				"url": "https://gunnar.se/2022/06/06/ping-odd.html",
 				"tags": ["Photos"]
@@ -1573,8 +1636,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/31/nyhetsateljn-invigd-med.html",
 				
-				"content_html": "<p>Nyhetsateljén invigd med högtidliga tal. 🥳🎉</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nyhetsateljén invigd med högtidliga tal. 🥳🎉\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/0117e24999.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Nyhetsateljén invigd med högtidliga tal. 🥳🎉</p>\n<p><a href=\"https://gunnar.se/uploads/2022/0117e24999.jpg\"><img src=\"https://gunnar.se/uploads/2022/0117e24999.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Nyhetsateljén invigd med högtidliga tal. 🥳🎉\n\n[![](https://gunnar.se/uploads/2022/0117e24999.jpg)](https://gunnar.se/uploads/2022/0117e24999.jpg)\n",
 				"date_published": "2022-05-31T14:32:36+01:00",
 				"url": "https://gunnar.se/2022/05/31/nyhetsateljn-invigd-med.html",
 				"tags": ["Photos"]
@@ -1582,8 +1645,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/30/control-im-here.html",
 				
-				"content_html": "<p>Control I&rsquo;m Here</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Control I'm Here\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/23e50a3a22.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Control I&rsquo;m Here</p>\n<p><a href=\"https://gunnar.se/uploads/2022/23e50a3a22.jpg\"><img src=\"https://gunnar.se/uploads/2022/23e50a3a22.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Control I'm Here\n\n[![](https://gunnar.se/uploads/2022/23e50a3a22.jpg)](https://gunnar.se/uploads/2022/23e50a3a22.jpg)\n\n",
 				"date_published": "2022-05-30T09:41:10+01:00",
 				"url": "https://gunnar.se/2022/05/30/control-im-here.html",
 				"tags": ["Photos"]
@@ -1599,8 +1662,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/29/backseat-drivers.html",
 				"title": "Backseat drivers",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/797e338764.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/797e338764.jpg\"><img src=\"https://gunnar.se/uploads/2022/797e338764.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/797e338764.jpg)](https://gunnar.se/uploads/2022/797e338764.jpg)\n",
 				"date_published": "2022-05-29T15:13:33+01:00",
 				"url": "https://gunnar.se/2022/05/29/backseat-drivers.html",
 				"tags": ["Photos","Long"]
@@ -1648,8 +1711,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/22/tur-att-kaffe.html",
 				"title": "Tur att kaffe finns",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/2542aeb273.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/2542aeb273.jpg\"><img src=\"https://gunnar.se/uploads/2022/2542aeb273.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/2542aeb273.jpg)](https://gunnar.se/uploads/2022/2542aeb273.jpg)\n",
 				"date_published": "2022-05-22T20:30:00+01:00",
 				"url": "https://gunnar.se/2022/05/22/tur-att-kaffe.html",
 				"tags": ["Photos","Long"]
@@ -1698,8 +1761,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/19/fotografer-r-som.html",
 				
-				"content_html": "<blockquote>\n<p>Fotografer är som människor är mest – de söker någon form av ordning och kontroll. För många fotografer kan det handla om kontroll över sådant som bländare, slutartider och färgbalans. Men inte för alla, det finns de som välkomnar slumpen. Olle Ljungström (1961 – 2016), var en sådan människa och en sådan fotograf. Några år före sin bortgång fann han Holga och föll pladask. Holga är en relativt billig kinesisk mellanformatskamera som oftast laddas med traditionella 120- filmrullar och är känd för sina tekniska brister, men också älskad för dem. Olle Ljungström gillade Holgas konstruktion, ”en enkel mackapär”, som kräver att man drar fram filmen för hand efter exponering – eller väljer att låta bli, kanske glömmer det, vilket skapar dubbelexponeringar som ger en extra dimension i bildernas uttryck. Source: <a href=\"https://www.abecitakonst.se/olle-ljungstrom-tank-om-man-hade-rad-med-en-angel/\">Olle Ljungström – Tänk om man hade råd med en ängel – Abecita Popkonst och Foto</a></p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> Fotografer är som människor är mest – de söker någon form av ordning och kontroll. För många fotografer kan det handla om kontroll över sådant som bländare, slutartider och färgbalans. Men inte för alla, det finns de som välkomnar slumpen. Olle Ljungström (1961 – 2016), var en sådan människa och en sådan fotograf. Några år före sin bortgång fann han Holga och föll pladask. Holga är en relativt billig kinesisk mellanformatskamera som oftast laddas med traditionella 120- filmrullar och är känd för sina tekniska brister, men också älskad för dem. Olle Ljungström gillade Holgas konstruktion, ”en enkel mackapär”, som kräver att man drar fram filmen för hand efter exponering – eller väljer att låta bli, kanske glömmer det, vilket skapar dubbelexponeringar som ger en extra dimension i bildernas uttryck. Source: [Olle Ljungström – Tänk om man hade råd med en ängel – Abecita Popkonst och Foto](https://www.abecitakonst.se/olle-ljungstrom-tank-om-man-hade-rad-med-en-angel/)\n\n<img src=\"https://micro.blog/photos/600x/https://g.micro.blog/uploads/2022/eb1c45704f.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<blockquote>\n<p>Fotografer är som människor är mest – de söker någon form av ordning och kontroll. För många fotografer kan det handla om kontroll över sådant som bländare, slutartider och färgbalans. Men inte för alla, det finns de som välkomnar slumpen. Olle Ljungström (1961 – 2016), var en sådan människa och en sådan fotograf. Några år före sin bortgång fann han Holga och föll pladask. Holga är en relativt billig kinesisk mellanformatskamera som oftast laddas med traditionella 120- filmrullar och är känd för sina tekniska brister, men också älskad för dem. Olle Ljungström gillade Holgas konstruktion, ”en enkel mackapär”, som kräver att man drar fram filmen för hand efter exponering – eller väljer att låta bli, kanske glömmer det, vilket skapar dubbelexponeringar som ger en extra dimension i bildernas uttryck. Source: <a href=\"https://www.abecitakonst.se/olle-ljungstrom-tank-om-man-hade-rad-med-en-angel/\">Olle Ljungström – Tänk om man hade råd med en ängel – Abecita Popkonst och Foto</a></p>\n</blockquote>\n<p><a href=\"https://gunnar.se/uploads/2022/eb1c45704f.jpg\"><img src=\"https://gunnar.se/uploads/2022/eb1c45704f.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "> Fotografer är som människor är mest – de söker någon form av ordning och kontroll. För många fotografer kan det handla om kontroll över sådant som bländare, slutartider och färgbalans. Men inte för alla, det finns de som välkomnar slumpen. Olle Ljungström (1961 – 2016), var en sådan människa och en sådan fotograf. Några år före sin bortgång fann han Holga och föll pladask. Holga är en relativt billig kinesisk mellanformatskamera som oftast laddas med traditionella 120- filmrullar och är känd för sina tekniska brister, men också älskad för dem. Olle Ljungström gillade Holgas konstruktion, ”en enkel mackapär”, som kräver att man drar fram filmen för hand efter exponering – eller väljer att låta bli, kanske glömmer det, vilket skapar dubbelexponeringar som ger en extra dimension i bildernas uttryck. Source: [Olle Ljungström – Tänk om man hade råd med en ängel – Abecita Popkonst och Foto](https://www.abecitakonst.se/olle-ljungstrom-tank-om-man-hade-rad-med-en-angel/)\n\n[![](https://gunnar.se/uploads/2022/eb1c45704f.jpg)](https://gunnar.se/uploads/2022/eb1c45704f.jpg)\n",
 				"date_published": "2022-05-19T07:00:25+01:00",
 				"url": "https://gunnar.se/2022/05/19/fotografer-r-som.html",
 				"tags": ["Photos"]
@@ -1796,8 +1859,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/10/ad-from-our.html",
 				"title": "Ad shoot at our local skateboard park. ",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://g.micro.blog/uploads/2022/00ff4e5378.png\" width=\"481\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/00ff4e5378.png\"><img src=\"https://gunnar.se/uploads/2022/00ff4e5378.png\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/00ff4e5378.png)](https://gunnar.se/uploads/2022/00ff4e5378.png)\n",
 				"date_published": "2022-05-10T06:46:00+01:00",
 				"url": "https://gunnar.se/2022/05/10/ad-from-our.html",
 				"tags": ["Photos"]
@@ -1805,8 +1868,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/09/teams-med-tvfabriken.html",
 				"title": "Teams med tv-fabriken som kuliss. ",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://g.micro.blog/uploads/2022/4abb4ad502.jpg\" width=\"600\" height=\"317\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/4abb4ad502.jpg\"><img src=\"https://gunnar.se/uploads/2022/4abb4ad502.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/4abb4ad502.jpg)](https://gunnar.se/uploads/2022/4abb4ad502.jpg)\n",
 				"date_published": "2022-05-09T16:47:00+01:00",
 				"url": "https://gunnar.se/2022/05/09/teams-med-tvfabriken.html",
 				"tags": ["Photos"]
@@ -1814,8 +1877,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/07/143453.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://g.micro.blog/uploads/2022/7944fd4ee6.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/7944fd4ee6.jpg\"><img src=\"https://gunnar.se/uploads/2022/7944fd4ee6.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/7944fd4ee6.jpg)](https://gunnar.se/uploads/2022/7944fd4ee6.jpg)\n",
 				"date_published": "2022-05-07T13:34:53+01:00",
 				"url": "https://gunnar.se/2022/05/07/143453.html",
 				"tags": ["Photos"]
@@ -1831,8 +1894,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/07/malmfotografen-daniel-nilsson.html",
 				
-				"content_html": "<p>Malmöfotografen Daniel Nilsson är årets Lars Tunbjörkpristagare. Han har gjort sig känd genom sin fotoskildring av människors arbete hemifrån under pandemin.\n<a href=\"http://www.dnilsson.se/home-office/\">Home office - DANIEL NILSSON</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Malmöfotografen Daniel Nilsson är årets Lars Tunbjörkpristagare. Han har gjort sig känd genom sin fotoskildring av människors arbete hemifrån under pandemin.\n [Home office - DANIEL NILSSON](http://www.dnilsson.se/home-office/)\n\n\n<img src=\"https://g.micro.blog/uploads/2022/4b37b88194.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Malmöfotografen Daniel Nilsson är årets Lars Tunbjörkpristagare. Han har gjort sig känd genom sin fotoskildring av människors arbete hemifrån under pandemin.\n<a href=\"http://www.dnilsson.se/home-office/\">Home office - DANIEL NILSSON</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/4b37b88194.png\"><img src=\"https://gunnar.se/uploads/2022/4b37b88194.png\" alt=\"\"></a></p>\n",
+				"content_text": "Malmöfotografen Daniel Nilsson är årets Lars Tunbjörkpristagare. Han har gjort sig känd genom sin fotoskildring av människors arbete hemifrån under pandemin.\n [Home office - DANIEL NILSSON](http://www.dnilsson.se/home-office/)\n\n[![](https://gunnar.se/uploads/2022/4b37b88194.png)](https://gunnar.se/uploads/2022/4b37b88194.png)\n",
 				"date_published": "2022-05-07T09:30:11+01:00",
 				"url": "https://gunnar.se/2022/05/07/malmfotografen-daniel-nilsson.html",
 				"tags": ["Photos"]
@@ -1840,8 +1903,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/06/efter-clark-p.html",
 				
-				"content_html": "<p>Efter Clark på Netflix är jag fast i arkivet på @dagensnyheter <a href=\"https://arkivet.dn.se\">arkivet.dn.se</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Efter Clark på Netflix är jag fast i arkivet på @dagensnyheter [arkivet.dn.se](https://arkivet.dn.se) \n\n<img src=\"https://g.micro.blog/uploads/2022/1b7a81bebf.jpg\" width=\"600\" height=\"381\" alt=\"\" />\n",
+				"content_html": "<p>Efter Clark på Netflix är jag fast i arkivet på @dagensnyheter <a href=\"https://arkivet.dn.se\">arkivet.dn.se</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/1b7a81bebf.jpg\"><img src=\"https://gunnar.se/uploads/2022/1b7a81bebf.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Efter Clark på Netflix är jag fast i arkivet på @dagensnyheter [arkivet.dn.se](https://arkivet.dn.se) \n\n[![](https://gunnar.se/uploads/2022/1b7a81bebf.jpg)](https://gunnar.se/uploads/2022/1b7a81bebf.jpg)\n",
 				"date_published": "2022-05-06T21:34:04+01:00",
 				"url": "https://gunnar.se/2022/05/06/efter-clark-p.html",
 				"tags": ["Photos"]
@@ -1849,8 +1912,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/06/another-day-in.html",
 				
-				"content_html": "<p>Another day in Teams</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another day in Teams\n\n<img src=\"https://g.micro.blog/uploads/2022/4d69b240eb.jpg\" width=\"600\" height=\"316\" alt=\"\" />\n",
+				"content_html": "<p>Another day in Teams</p>\n<p><a href=\"https://gunnar.se/uploads/2022/4d69b240eb.jpg\"><img src=\"https://gunnar.se/uploads/2022/4d69b240eb.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Another day in Teams\n\n[![](https://gunnar.se/uploads/2022/4d69b240eb.jpg)](https://gunnar.se/uploads/2022/4d69b240eb.jpg)\n",
 				"date_published": "2022-05-06T10:47:31+01:00",
 				"url": "https://gunnar.se/2022/05/06/another-day-in.html",
 				"tags": ["Photos"]
@@ -1874,8 +1937,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/02/204502.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://g.micro.blog/uploads/2022/4b745bf614.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/4b745bf614.jpg\"><img src=\"https://gunnar.se/uploads/2022/4b745bf614.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/4b745bf614.jpg)](https://gunnar.se/uploads/2022/4b745bf614.jpg)\n",
 				"date_published": "2022-05-02T19:45:02+01:00",
 				"url": "https://gunnar.se/2022/05/02/204502.html",
 				"tags": ["Photos"]
@@ -1883,8 +1946,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/02/a-weekend-in.html",
 				
-				"content_html": "<p>A weekend in Åland</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A weekend in Åland\n\n<img src=\"https://g.micro.blog/uploads/2022/fc3c1842cf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A weekend in Åland</p>\n<p><a href=\"https://gunnar.se/uploads/2022/fc3c1842cf.jpg\"><img src=\"https://gunnar.se/uploads/2022/fc3c1842cf.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "A weekend in Åland\n\n[![](https://gunnar.se/uploads/2022/fc3c1842cf.jpg)](https://gunnar.se/uploads/2022/fc3c1842cf.jpg)\n",
 				"date_published": "2022-05-02T06:43:13+01:00",
 				"url": "https://gunnar.se/2022/05/02/a-weekend-in.html",
 				"tags": ["Photos"]
@@ -1892,8 +1955,8 @@
 			{
 				"id": "http://g.micro.blog/2022/05/01/knotwords-your-new.html",
 				"title": "Knotwords - Your new daily word fix",
-				"content_html": "<p>Knotwords is a minimal and elegant logic puzzle — with words.</p>\n<p>The rules are simple: arrange the letters in each section so every word is valid, across and down.</p>\n<p>Each puzzle may seem difficult at first — but like all my favorite newspaper puzzles, it gets easier as you progress. Each step guides you naturally towards the solution.</p>\n<p><a href=\"https://playknotwords.com/\">Knotwords</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Knotwords is a minimal and elegant logic puzzle — with words.\r\n\r\nThe rules are simple: arrange the letters in each section so every word is valid, across and down.\r\n\r\nEach puzzle may seem difficult at first — but like all my favorite newspaper puzzles, it gets easier as you progress. Each step guides you naturally towards the solution.\r\n\r\n[Knotwords](https://playknotwords.com/)\n\n<img src=\"https://g.micro.blog/uploads/2022/7a0bee076e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Knotwords is a minimal and elegant logic puzzle — with words.</p>\n<p>The rules are simple: arrange the letters in each section so every word is valid, across and down.</p>\n<p>Each puzzle may seem difficult at first — but like all my favorite newspaper puzzles, it gets easier as you progress. Each step guides you naturally towards the solution.</p>\n<p><a href=\"https://playknotwords.com/\">Knotwords</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/7a0bee076e.jpg\"><img src=\"https://gunnar.se/uploads/2022/7a0bee076e.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Knotwords is a minimal and elegant logic puzzle — with words.\n\nThe rules are simple: arrange the letters in each section so every word is valid, across and down.\n\nEach puzzle may seem difficult at first — but like all my favorite newspaper puzzles, it gets easier as you progress. Each step guides you naturally towards the solution.\n\n[Knotwords](https://playknotwords.com/)\n\n[![](https://gunnar.se/uploads/2022/7a0bee076e.jpg)](https://gunnar.se/uploads/2022/7a0bee076e.jpg)\n",
 				"date_published": "2022-05-01T08:24:02+01:00",
 				"url": "https://gunnar.se/2022/05/01/knotwords-your-new.html",
 				"tags": ["Photos","Long"]
@@ -1918,8 +1981,8 @@
 			{
 				"id": "http://g.micro.blog/2022/04/29/p-kurs.html",
 				
-				"content_html": "<p>På kurs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "På kurs. \n\n<img src=\"https://g.micro.blog/uploads/2022/262d8742ec.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>På kurs.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/262d8742ec.jpg\"><img src=\"https://gunnar.se/uploads/2022/262d8742ec.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "På kurs. \n\n[![](https://gunnar.se/uploads/2022/262d8742ec.jpg)](https://gunnar.se/uploads/2022/262d8742ec.jpg)\n",
 				"date_published": "2022-04-29T16:50:15+01:00",
 				"url": "https://gunnar.se/2022/04/29/p-kurs.html",
 				"tags": ["Photos"]
@@ -1935,8 +1998,8 @@
 			{
 				"id": "http://g.micro.blog/2022/04/27/en-bokfest-har.html",
 				
-				"content_html": "<p>En bokfest har landat full av smarta människor. Tipstack @josefinelindens</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En bokfest har landat full av smarta människor. Tipstack @josefinelindens\n\n<img src=\"https://g.micro.blog/uploads/2022/3754587a3e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>En bokfest har landat full av smarta människor. Tipstack @josefinelindens</p>\n<p><a href=\"https://gunnar.se/uploads/2022/3754587a3e.jpg\"><img src=\"https://gunnar.se/uploads/2022/3754587a3e.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "En bokfest har landat full av smarta människor. Tipstack @josefinelindens\n\n[![](https://gunnar.se/uploads/2022/3754587a3e.jpg)](https://gunnar.se/uploads/2022/3754587a3e.jpg)\n",
 				"date_published": "2022-04-27T18:36:57+01:00",
 				"url": "https://gunnar.se/2022/04/27/en-bokfest-har.html",
 				"tags": ["Photos"]
@@ -1944,10 +2007,11 @@
 			{
 				"id": "http://g.micro.blog/2022/04/27/signaturen-till-efter.html",
 				
-				"content_html": "<p>Signaturen till <!-- raw HTML omitted --><strong>Efter Tre</strong><!-- raw HTML omitted -->, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <!-- raw HTML omitted -->Bertil Goldberg.<!-- raw HTML omitted --> Man vill ju höra mer om historien och jobbet bakom.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Signaturen till <a href=\"https://sv.wikipedia.org/wiki/Efter_tre\">**Efter Tre**</a>, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <a href=\"https://sv.wikipedia.org/wiki/Bertil_Goldberg\">Bertil Goldberg.</a> Man vill ju höra mer om historien och jobbet bakom. \n\n<img src=\"https://g.micro.blog/uploads/2022/57d817b6ec.jpg\" alt=\"Bertil\" title=\"bertil.jpg\" border=\"0\" width=\"650\" height=\"416\" />\n\n<audio controls=\"controls\" src=\"https://g.micro.blog/uploads/2022/af856f5c77.mp3\" preload=\"metadata\" />\n\n",
+				"content_html": "<p>Signaturen till <!-- raw HTML omitted --><strong>Efter Tre</strong><!-- raw HTML omitted -->, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <!-- raw HTML omitted -->Bertil Goldberg.<!-- raw HTML omitted --> Man vill ju höra mer om historien och jobbet bakom.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/57d817b6ec.jpg\"><img src=\"https://gunnar.se/uploads/2022/57d817b6ec.jpg\" alt=\"\"></a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Signaturen till <a href=\"https://sv.wikipedia.org/wiki/Efter_tre\">**Efter Tre**</a>, ett eko av en hel uppväxt, alltid på, överallt. Skriven av <a href=\"https://sv.wikipedia.org/wiki/Bertil_Goldberg\">Bertil Goldberg.</a> Man vill ju höra mer om historien och jobbet bakom. \n\n[![](https://gunnar.se/uploads/2022/57d817b6ec.jpg)](https://gunnar.se/uploads/2022/57d817b6ec.jpg)\n\n<audio controls=\"controls\" src=\"https://gunnar.se/uploads/2022/af856f5c77.mp3\" preload=\"metadata\" />\n\n",
 				"date_published": "2022-04-27T10:05:18+01:00",
-				"url": "https://gunnar.se/2022/04/27/signaturen-till-efter.html"
+				"url": "https://gunnar.se/2022/04/27/signaturen-till-efter.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://g.micro.blog/2022/04/26/dos.html",
@@ -1960,8 +2024,8 @@
 			{
 				"id": "http://g.micro.blog/2022/04/26/070041.html",
 				
-				"content_html": "<p>Premiär för ny form av SvD – både i papper och online. <a href=\"https://www.svd.se/a/ALw4wz/anna-careborg-valkommen-till-nya-svd\">Anna Careborg: Välkommen till nya SvD | Anna Careborg | SvD</a></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Premiär för ny form av SvD – både i papper och online. [Anna Careborg: Välkommen till nya SvD | Anna Careborg | SvD](https://www.svd.se/a/ALw4wz/anna-careborg-valkommen-till-nya-svd)\n\n<img src=\"https://g.micro.blog/uploads/2022/f121e5f8ed.jpg\" width=\"404\" height=\"600\" alt=\"\" />\n\n<img src=\"https://g.micro.blog/uploads/2022/ee47aab378.jpg\" alt=\"SVD ny form 2022 04 26\" title=\"SVD ny form 2022-04-26.jpg\" border=\"0\" width=\"1621\" height=\"1202\" />\n\n<img src=\"https://g.micro.blog/uploads/2022/22fd738258.jpg\" alt=\"SVD nyheter 2022 04 26\" title=\"SVD nyheter 2022-04-26.jpg\" border=\"0\" width=\"1620\" height=\"1203\" />\n\n<img src=\"https://g.micro.blog/uploads/2022/59ab250536.jpg\" alt=\"SVD näringsliv 2022 04 26\" title=\"SVD näringsliv 2022-04-26.jpg\" border=\"0\" width=\"810\" height=\"1203\" />\n\n<img src=\"https://g.micro.blog/uploads/2022/7ac3d3a3a3.jpg\" alt=\"SVD kultur 2022 04 26\" title=\"SVD kultur 2022-04-26.jpg\" border=\"0\" width=\"1622\" height=\"1202\" />\n",
+				"content_html": "<p>Premiär för ny form av SvD – både i papper och online. <a href=\"https://www.svd.se/a/ALw4wz/anna-careborg-valkommen-till-nya-svd\">Anna Careborg: Välkommen till nya SvD | Anna Careborg | SvD</a></p>\n<p><a href=\"https://gunnar.se/uploads/2022/f121e5f8ed.jpg\"><img src=\"https://gunnar.se/uploads/2022/f121e5f8ed.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/ee47aab378.jpg\"><img src=\"https://gunnar.se/uploads/2022/ee47aab378.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/22fd738258.jpg\"><img src=\"https://gunnar.se/uploads/2022/22fd738258.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/59ab250536.jpg\"><img src=\"https://gunnar.se/uploads/2022/59ab250536.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/7ac3d3a3a3.jpg\"><img src=\"https://gunnar.se/uploads/2022/7ac3d3a3a3.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Premiär för ny form av SvD – både i papper och online. [Anna Careborg: Välkommen till nya SvD | Anna Careborg | SvD](https://www.svd.se/a/ALw4wz/anna-careborg-valkommen-till-nya-svd)\n\n[![](https://gunnar.se/uploads/2022/f121e5f8ed.jpg)](https://gunnar.se/uploads/2022/f121e5f8ed.jpg)\n[![](https://gunnar.se/uploads/2022/ee47aab378.jpg)](https://gunnar.se/uploads/2022/ee47aab378.jpg)\n[![](https://gunnar.se/uploads/2022/22fd738258.jpg)](https://gunnar.se/uploads/2022/22fd738258.jpg)\n[![](https://gunnar.se/uploads/2022/59ab250536.jpg)](https://gunnar.se/uploads/2022/59ab250536.jpg)\n[![](https://gunnar.se/uploads/2022/7ac3d3a3a3.jpg)](https://gunnar.se/uploads/2022/7ac3d3a3a3.jpg)\n",
 				"date_published": "2022-04-26T06:00:41+01:00",
 				"url": "https://gunnar.se/2022/04/26/070041.html",
 				"tags": ["Photos"]
@@ -2027,8 +2091,8 @@
 			{
 				"id": "http://g.micro.blog/2022/04/18/vddviken.html",
 				
-				"content_html": "<p>Väddöviken</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Väddöviken\n\n<img src=\"https://g.micro.blog/uploads/2022/e90832ba73.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://g.micro.blog/uploads/2022/479e326d0d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://g.micro.blog/uploads/2022/350a76a47a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Väddöviken</p>\n<p><a href=\"https://gunnar.se/uploads/2022/e90832ba73.jpg\"><img src=\"https://gunnar.se/uploads/2022/e90832ba73.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/479e326d0d.jpg\"><img src=\"https://gunnar.se/uploads/2022/479e326d0d.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/350a76a47a.jpg\"><img src=\"https://gunnar.se/uploads/2022/350a76a47a.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Väddöviken\n\n[![](https://gunnar.se/uploads/2022/e90832ba73.jpg)](https://gunnar.se/uploads/2022/e90832ba73.jpg)\n[![](https://gunnar.se/uploads/2022/479e326d0d.jpg)](https://gunnar.se/uploads/2022/479e326d0d.jpg)\n[![](https://gunnar.se/uploads/2022/350a76a47a.jpg)](https://gunnar.se/uploads/2022/350a76a47a.jpg)\n",
 				"date_published": "2022-04-18T07:56:55+01:00",
 				"url": "https://gunnar.se/2022/04/18/vddviken.html",
 				"tags": ["Photos"]
@@ -2036,8 +2100,8 @@
 			{
 				"id": "http://g.micro.blog/2022/04/16/hornstulls-marknad-stockholm.html",
 				
-				"content_html": "<p>Hornstulls marknad • Stockholm</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hornstulls marknad • Stockholm\n\n<img src=\"https://g.micro.blog/uploads/2022/4381162365.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Hornstulls marknad • Stockholm</p>\n<p><a href=\"https://gunnar.se/uploads/2022/4381162365.jpg\"><img src=\"https://gunnar.se/uploads/2022/4381162365.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Hornstulls marknad • Stockholm\n\n[![](https://gunnar.se/uploads/2022/4381162365.jpg)](https://gunnar.se/uploads/2022/4381162365.jpg)\n",
 				"date_published": "2022-04-16T13:29:42+01:00",
 				"url": "https://gunnar.se/2022/04/16/hornstulls-marknad-stockholm.html",
 				"tags": ["Photos"]
@@ -2053,8 +2117,8 @@
 			{
 				"id": "http://g.micro.blog/2022/04/14/jag-tror-att.html",
 				
-				"content_html": "<p>Jag tror att @barackobama är den enda presidenten som följer mig. Tänk vad världen är liten ändå.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jag tror att @barackobama är den enda presidenten som följer mig. Tänk vad världen är liten ändå. \n\n<img src=\"https://g.micro.blog/uploads/2022/faee1e4016.png\" width=\"472\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Jag tror att @barackobama är den enda presidenten som följer mig. Tänk vad världen är liten ändå.</p>\n<p><a href=\"https://gunnar.se/uploads/2022/faee1e4016.png\"><img src=\"https://gunnar.se/uploads/2022/faee1e4016.png\" alt=\"\"></a></p>\n",
+				"content_text": "Jag tror att @barackobama är den enda presidenten som följer mig. Tänk vad världen är liten ändå. \n\n[![](https://gunnar.se/uploads/2022/faee1e4016.png)](https://gunnar.se/uploads/2022/faee1e4016.png)\n",
 				"date_published": "2022-04-14T10:18:46+01:00",
 				"url": "https://gunnar.se/2022/04/14/jag-tror-att.html",
 				"tags": ["Photos"]
@@ -2251,8 +2315,8 @@
 			{
 				"id": "http://g.micro.blog/2022/03/27/bussgaraget-i-kristineberg.html",
 				
-				"content_html": "<p>Bussgaraget i Kristineberg rivs</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Bussgaraget i Kristineberg rivs\n\n<img src=\"https://g.micro.blog/uploads/2022/ce4b3a5b6e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://g.micro.blog/uploads/2022/4f311809aa.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Bussgaraget i Kristineberg rivs</p>\n<p><a href=\"https://gunnar.se/uploads/2022/ce4b3a5b6e.jpg\"><img src=\"https://gunnar.se/uploads/2022/ce4b3a5b6e.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2022/4f311809aa.jpg\"><img src=\"https://gunnar.se/uploads/2022/4f311809aa.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Bussgaraget i Kristineberg rivs\n\n[![](https://gunnar.se/uploads/2022/ce4b3a5b6e.jpg)](https://gunnar.se/uploads/2022/ce4b3a5b6e.jpg)\n[![](https://gunnar.se/uploads/2022/4f311809aa.jpg)](https://gunnar.se/uploads/2022/4f311809aa.jpg)\n",
 				"date_published": "2022-03-27T14:09:29+01:00",
 				"url": "https://gunnar.se/2022/03/27/bussgaraget-i-kristineberg.html",
 				"tags": ["Photos"]
@@ -2416,8 +2480,8 @@
 			{
 				"id": "http://g.micro.blog/2022/03/10/flower-power.html",
 				
-				"content_html": "<p>Flower power</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Flower power\n\n<img src=\"https://g.micro.blog/uploads/2022/5631025056.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Flower power</p>\n<p><a href=\"https://gunnar.se/uploads/2022/5b3a5da118.jpg\"><img src=\"https://gunnar.se/uploads/2022/5b3a5da118.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Flower power\n\n[![](https://gunnar.se/uploads/2022/5b3a5da118.jpg)](https://gunnar.se/uploads/2022/5b3a5da118.jpg)\n",
 				"date_published": "2022-03-10T16:22:44+01:00",
 				"url": "https://gunnar.se/2022/03/10/flower-power.html",
 				"tags": ["Photos"]
@@ -2450,8 +2514,8 @@
 			{
 				"id": "http://g.micro.blog/2022/03/09/ngon-fiskade-upp.html",
 				
-				"content_html": "<p>Någon fiskade upp en cykel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Någon fiskade upp en cykel\n\n<img src=\"https://g.micro.blog/uploads/2022/5c23eacb30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Någon fiskade upp en cykel</p>\n<p><a href=\"https://gunnar.se/uploads/2022/5c23eacb30.jpg\"><img src=\"https://gunnar.se/uploads/2022/5c23eacb30.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Någon fiskade upp en cykel\n\n[![](https://gunnar.se/uploads/2022/5c23eacb30.jpg)](https://gunnar.se/uploads/2022/5c23eacb30.jpg)\n\n",
 				"date_published": "2022-03-09T21:39:43+01:00",
 				"url": "https://gunnar.se/2022/03/09/ngon-fiskade-upp.html",
 				"tags": ["Photos"]
@@ -2459,8 +2523,8 @@
 			{
 				"id": "http://g.micro.blog/2022/03/09/082514.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://g.micro.blog/uploads/2022/39af1f070e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://gunnar.se/uploads/2022/39af1f070e.jpg\"><img src=\"https://gunnar.se/uploads/2022/39af1f070e.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "[![](https://gunnar.se/uploads/2022/39af1f070e.jpg)](https://gunnar.se/uploads/2022/39af1f070e.jpg)\n",
 				"date_published": "2022-03-09T08:25:14+01:00",
 				"url": "https://gunnar.se/2022/03/09/082514.html",
 				"tags": ["Photos"]
@@ -2484,8 +2548,8 @@
 			{
 				"id": "http://g.micro.blog/2022/03/07/the-doors-of.html",
 				
-				"content_html": "<p>The Doors of Perception</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Doors of Perception\n\n<img src=\"https://g.micro.blog/uploads/2022/15cb0d9e8e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Doors of Perception</p>\n<p><a href=\"https://gunnar.se/uploads/2022/15cb0d9e8e.jpg\"><img src=\"https://gunnar.se/uploads/2022/15cb0d9e8e.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "The Doors of Perception\n\n[![](https://gunnar.se/uploads/2022/15cb0d9e8e.jpg)](https://gunnar.se/uploads/2022/15cb0d9e8e.jpg)\n",
 				"date_published": "2022-03-07T08:31:42+01:00",
 				"url": "https://gunnar.se/2022/03/07/the-doors-of.html",
 				"tags": ["Photos"]
@@ -2527,8 +2591,8 @@
 			{
 				"id": "http://g.micro.blog/2022/03/04/newprofilepic.html",
 				
-				"content_html": "<p>#NewProfilePic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " #NewProfilePic \n\n<img src=\"https://g.micro.blog/uploads/2022/3a548f4bff.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>#NewProfilePic</p>\n<p><a href=\"https://gunnar.se/uploads/2022/3a548f4bff.jpg\"><img src=\"https://gunnar.se/uploads/2022/3a548f4bff.jpg\" alt=\"\"></a></p>\n",
+				"content_text": " #NewProfilePic \n\n[![](https://gunnar.se/uploads/2022/3a548f4bff.jpg)](https://gunnar.se/uploads/2022/3a548f4bff.jpg)\n",
 				"date_published": "2022-03-04T15:40:40+01:00",
 				"url": "https://gunnar.se/2022/03/04/newprofilepic.html",
 				"tags": ["Photos"]
@@ -3738,8 +3802,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/24/havet-ligger-blankt.html",
 				
-				"content_html": "<p>Havet ligger blankt och gömmer en skatt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Havet ligger blankt och gömmer en skatt\n\n<img src=\"https://g.micro.blog/uploads/2021/fa7faa6c42.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Havet ligger blankt och gömmer en skatt</p>\n<p><a href=\"https://gunnar.se/uploads/2021/fa7faa6c42.jpg\"><img src=\"https://gunnar.se/uploads/2021/fa7faa6c42.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Havet ligger blankt och gömmer en skatt\n\n[![](https://gunnar.se/uploads/2021/fa7faa6c42.jpg)](https://gunnar.se/uploads/2021/fa7faa6c42.jpg)\n",
 				"date_published": "2021-08-24T07:06:18+01:00",
 				"url": "https://gunnar.se/2021/08/24/havet-ligger-blankt.html",
 				"tags": ["Photos"]
@@ -3747,8 +3811,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/24/tasty-shoelaces.html",
 				
-				"content_html": "<p>Tasty shoelaces</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tasty shoelaces\n\n<img src=\"https://g.micro.blog/uploads/2021/9ebee98f4d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tasty shoelaces</p>\n<p><a href=\"https://gunnar.se/uploads/2021/9ebee98f4d.jpg\"><img src=\"https://gunnar.se/uploads/2021/9ebee98f4d.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Tasty shoelaces\n\n[![](https://gunnar.se/uploads/2021/9ebee98f4d.jpg)](https://gunnar.se/uploads/2021/9ebee98f4d.jpg)\n",
 				"date_published": "2021-08-24T06:53:12+01:00",
 				"url": "https://gunnar.se/2021/08/24/tasty-shoelaces.html",
 				"tags": ["Photos"]
@@ -3756,8 +3820,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/24/boulebrothers.html",
 				
-				"content_html": "<p>Boule-brothers</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boule-brothers\n\n<img src=\"https://g.micro.blog/uploads/2021/89ea15deb2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Boule-brothers</p>\n<p><a href=\"https://gunnar.se/uploads/2021/89ea15deb2.jpg\"><img src=\"https://gunnar.se/uploads/2021/89ea15deb2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Boule-brothers\n\n[![](https://gunnar.se/uploads/2021/89ea15deb2.jpg)](https://gunnar.se/uploads/2021/89ea15deb2.jpg)\n",
 				"date_published": "2021-08-24T06:48:03+01:00",
 				"url": "https://gunnar.se/2021/08/24/boulebrothers.html",
 				"tags": ["Photos"]
@@ -3765,8 +3829,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/23/ni-minns-vmsommaren.html",
 				
-				"content_html": "<ol start=\"1994\">\n<li>Ni minns VM-sommaren när vi skulle gräva guld i USA? Jag minns det här.</li>\n</ol>\n<!-- raw HTML omitted -->\n",
-				"content_text": "1994. Ni minns VM-sommaren när vi skulle gräva guld i USA? Jag minns det här. \n\n<img src=\"https://g.micro.blog/uploads/2021/73dca484e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<ol start=\"1994\">\n<li>Ni minns VM-sommaren när vi skulle gräva guld i USA? Jag minns det här.</li>\n</ol>\n<p><a href=\"https://gunnar.se/uploads/2021/73dca484e1.jpg\"><img src=\"https://gunnar.se/uploads/2021/73dca484e1.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "1994. Ni minns VM-sommaren när vi skulle gräva guld i USA? Jag minns det här. \n\n[![](https://gunnar.se/uploads/2021/73dca484e1.jpg)](https://gunnar.se/uploads/2021/73dca484e1.jpg)\n",
 				"date_published": "2021-08-23T14:00:41+01:00",
 				"url": "https://gunnar.se/2021/08/23/ni-minns-vmsommaren.html",
 				"tags": ["Photos"]
@@ -3774,8 +3838,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/20/kaffe-hos-lazy.html",
 				
-				"content_html": "<p>Kaffe hos Lazy Barber</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kaffe hos Lazy Barber\n\n<img src=\"https://g.micro.blog/uploads/2021/299b5ce472.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Kaffe hos Lazy Barber</p>\n<p><a href=\"https://gunnar.se/uploads/2021/299b5ce472.jpg\"><img src=\"https://gunnar.se/uploads/2021/299b5ce472.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Kaffe hos Lazy Barber\n\n[![](https://gunnar.se/uploads/2021/299b5ce472.jpg)](https://gunnar.se/uploads/2021/299b5ce472.jpg)\n",
 				"date_published": "2021-08-20T11:06:20+01:00",
 				"url": "https://gunnar.se/2021/08/20/kaffe-hos-lazy.html",
 				"tags": ["Photos"]
@@ -3791,8 +3855,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/20/above-us-only.html",
 				
-				"content_html": "<p>Above us only sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Above us only sky\n\n<img src=\"https://g.micro.blog/uploads/2021/ffb6acd552.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Above us only sky</p>\n<p><a href=\"https://gunnar.se/uploads/2021/ffb6acd552.jpg\"><img src=\"https://gunnar.se/uploads/2021/ffb6acd552.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Above us only sky\n\n[![](https://gunnar.se/uploads/2021/ffb6acd552.jpg)](https://gunnar.se/uploads/2021/ffb6acd552.jpg)\n",
 				"date_published": "2021-08-20T00:09:05+01:00",
 				"url": "https://gunnar.se/2021/08/20/above-us-only.html",
 				"tags": ["Photos"]
@@ -3926,8 +3990,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/08/dyke-march-stockholm.html",
 				
-				"content_html": "<p>Dyke March Stockholm trotsade ösregnet och genomförde Sveriges och Nordens första Dyke March. @dykemarchstockholm</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Dyke March Stockholm trotsade ösregnet och genomförde Sveriges och Nordens första Dyke March. @dykemarchstockholm\n\n<img src=\"https://g.micro.blog/uploads/2021/ea36d61954.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://g.micro.blog/uploads/2021/83627fbcaa.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Dyke March Stockholm trotsade ösregnet och genomförde Sveriges och Nordens första Dyke March. @dykemarchstockholm</p>\n<p><a href=\"https://gunnar.se/uploads/2021/ea36d61954.jpg\"><img src=\"https://gunnar.se/uploads/2021/ea36d61954.jpg\" alt=\"\"></a>\n<a href=\"https://gunnar.se/uploads/2021/83627fbcaa.jpg\"><img src=\"https://gunnar.se/uploads/2021/83627fbcaa.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Dyke March Stockholm trotsade ösregnet och genomförde Sveriges och Nordens första Dyke March. @dykemarchstockholm\n\n[![](https://gunnar.se/uploads/2021/ea36d61954.jpg)](https://gunnar.se/uploads/2021/ea36d61954.jpg)\n[![](https://gunnar.se/uploads/2021/83627fbcaa.jpg)](https://gunnar.se/uploads/2021/83627fbcaa.jpg)\n",
 				"date_published": "2021-08-08T14:23:36+01:00",
 				"url": "https://gunnar.se/2021/08/08/dyke-march-stockholm.html",
 				"tags": ["Photos"]
@@ -3935,8 +3999,8 @@
 			{
 				"id": "http://g.micro.blog/2021/08/07/i-know-what.html",
 				
-				"content_html": "<p>I know what you did last night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I know what you did last night\n\n<img src=\"https://g.micro.blog/uploads/2021/7ad72b7f1c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I know what you did last night</p>\n<p><a href=\"https://gunnar.se/uploads/2021/7ad72b7f1c.jpg\"><img src=\"https://gunnar.se/uploads/2021/7ad72b7f1c.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "I know what you did last night\n\n[![](https://gunnar.se/uploads/2021/7ad72b7f1c.jpg)](https://gunnar.se/uploads/2021/7ad72b7f1c.jpg)\n",
 				"date_published": "2021-08-07T15:33:51+01:00",
 				"url": "https://gunnar.se/2021/08/07/i-know-what.html",
 				"tags": ["Photos"]
@@ -3969,8 +4033,8 @@
 			{
 				"id": "http://g.micro.blog/2021/07/30/viktigt-kundmeddelande-hos.html",
 				
-				"content_html": "<p>Viktigt kundmeddelande hos <a href=\"https://micro.blog/apple\">@apple</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Viktigt kundmeddelande hos [@apple](https://micro.blog/apple). \n\n<img src=\"https://g.micro.blog/uploads/2021/f9bfd2472f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Viktigt kundmeddelande hos <a href=\"https://micro.blog/apple\">@apple</a>.</p>\n<p><a href=\"https://gunnar.se/uploads/2021/f9bfd2472f.jpg\"><img src=\"https://gunnar.se/uploads/2021/f9bfd2472f.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Viktigt kundmeddelande hos [@apple](https://micro.blog/apple). \n\n[![](https://gunnar.se/uploads/2021/f9bfd2472f.jpg)](https://gunnar.se/uploads/2021/f9bfd2472f.jpg)\n",
 				"date_published": "2021-07-30T10:10:48+01:00",
 				"url": "https://gunnar.se/2021/07/30/viktigt-kundmeddelande-hos.html",
 				"tags": ["Photos"]
@@ -3978,8 +4042,8 @@
 			{
 				"id": "http://g.micro.blog/2021/07/26/inspired-by-birchtreeme.html",
 				
-				"content_html": "<p>Inspired by <a href=\"https://birchtree.me/blog/my-2013-iphone-home-screen/\">birchtree.me</a> I post my 2009 iPhone Home Screen. I guess it’s from my iPhone 3G.</p>\n<p>Later I’ll update this with more on the apps.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Inspired by [birchtree.me](https://birchtree.me/blog/my-2013-iphone-home-screen/) I post my 2009 iPhone Home Screen. I guess it’s from my iPhone 3G. \n\nLater I’ll update this with more on the apps. \n\n<img src=\"https://g.micro.blog/uploads/2021/7df930d68f.png\" width=\"320\" height=\"480\" alt=\"\" />\n",
+				"content_html": "<p>Inspired by <a href=\"https://birchtree.me/blog/my-2013-iphone-home-screen/\">birchtree.me</a> I post my 2009 iPhone Home Screen. I guess it’s from my iPhone 3G.</p>\n<p>Later I’ll update this with more on the apps.</p>\n<p><a href=\"https://gunnar.se/uploads/2021/7df930d68f.png\"><img src=\"https://gunnar.se/uploads/2021/7df930d68f.png\" alt=\"\"></a></p>\n",
+				"content_text": "Inspired by [birchtree.me](https://birchtree.me/blog/my-2013-iphone-home-screen/) I post my 2009 iPhone Home Screen. I guess it’s from my iPhone 3G. \n\nLater I’ll update this with more on the apps. \n\n[![](https://gunnar.se/uploads/2021/7df930d68f.png)](https://gunnar.se/uploads/2021/7df930d68f.png)\n",
 				"date_published": "2021-07-26T15:07:58+01:00",
 				"url": "https://gunnar.se/2021/07/26/inspired-by-birchtreeme.html",
 				"tags": ["Photos"]
@@ -3987,8 +4051,8 @@
 			{
 				"id": "http://g.micro.blog/2021/07/25/p-guidad-visning.html",
 				
-				"content_html": "<p>På guidad visning av @kungligaslotten och får inredningstips.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "På guidad visning av @kungligaslotten och får inredningstips. \n\n<img src=\"https://g.micro.blog/uploads/2021/46647563a2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>På guidad visning av @kungligaslotten och får inredningstips.</p>\n<p><a href=\"https://gunnar.se/uploads/2021/46647563a2.jpg\"><img src=\"https://gunnar.se/uploads/2021/46647563a2.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "På guidad visning av @kungligaslotten och får inredningstips. \n\n[![](https://gunnar.se/uploads/2021/46647563a2.jpg)](https://gunnar.se/uploads/2021/46647563a2.jpg)\n",
 				"date_published": "2021-07-25T04:43:24+01:00",
 				"url": "https://gunnar.se/2021/07/25/p-guidad-visning.html",
 				"tags": ["Photos"]
@@ -4020,8 +4084,8 @@
 			{
 				"id": "http://g.micro.blog/2021/07/20/walk-this-way.html",
 				
-				"content_html": "<p>Walk this way</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walk this way\n\n<img src=\"https://g.micro.blog/uploads/2021/396e6dcbe8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Walk this way</p>\n<p><a href=\"https://gunnar.se/uploads/2021/396e6dcbe8.jpg\"><img src=\"https://gunnar.se/uploads/2021/396e6dcbe8.jpg\" alt=\"\"></a></p>\n",
+				"content_text": "Walk this way\n\n[![](https://gunnar.se/uploads/2021/396e6dcbe8.jpg)](https://gunnar.se/uploads/2021/396e6dcbe8.jpg)\n",
 				"date_published": "2021-07-20T10:01:32+01:00",
 				"url": "https://gunnar.se/2021/07/20/walk-this-way.html",
 				"tags": ["Photos"]
@@ -4117,8 +4181,8 @@
 			{
 				"id": "http://g.micro.blog/2021/07/05/microblog-fever-any.html",
 				
-				"content_html": "<p>micro.blog + fever = 💖</p>\n<p>Any smart people <a href=\"https://micro.blog/help\">@help</a> that knows how to set up share from <a href=\"https://feedafever.com/\">fever</a> to micro.blog? The syntax for mail is ”mailto:?subject=%t&amp;body=%u”</p>\n<!-- raw HTML omitted -->\n<p>UPDATE:\nI think I did it.\n<a href=\"https://micro.blog/post?bookmarklet=true&amp;text=\">micro.blog/post</a><a href=\"%25u\">%t</a></p>\n",
-				"content_text": "micro.blog + fever = 💖\n\nAny smart people [@help](https://micro.blog/help) that knows how to set up share from [fever](https://feedafever.com/) to micro.blog? The syntax for mail is ”mailto:?subject=%t&body=%u”\n\n<img src=\"https://g.micro.blog/uploads/2021/2f416486bb.jpg\" width=\"355\" height=\"296\" alt=\"\" />\n\nUPDATE:\nI think I did it.\n[micro.blog/post](https://micro.blog/post?bookmarklet=true&text=)[%t](%u)\n",
+				"content_html": "<p>micro.blog + fever = 💖</p>\n<p>Any smart people <a href=\"https://micro.blog/help\">@help</a> that knows how to set up share from <a href=\"https://feedafever.com/\">fever</a> to micro.blog? The syntax for mail is ”mailto:?subject=%t&amp;body=%u”</p>\n<p><a href=\"https://gunnar.se/uploads/2021/2f416486bb.jpg\"><img src=\"https://gunnar.se/uploads/2021/2f416486bb.jpg\" alt=\"\"></a></p>\n<p>UPDATE:\nI think I did it.\n<a href=\"https://micro.blog/post?bookmarklet=true&amp;text=\">micro.blog/post</a><a href=\"%25u\">%t</a></p>\n",
+				"content_text": "micro.blog + fever = 💖\n\nAny smart people [@help](https://micro.blog/help) that knows how to set up share from [fever](https://feedafever.com/) to micro.blog? The syntax for mail is ”mailto:?subject=%t&body=%u”\n\n[![](https://gunnar.se/uploads/2021/2f416486bb.jpg)](https://gunnar.se/uploads/2021/2f416486bb.jpg)\n\nUPDATE:\nI think I did it.\n[micro.blog/post](https://micro.blog/post?bookmarklet=true&text=)[%t](%u)\n",
 				"date_published": "2021-07-05T09:57:00+01:00",
 				"url": "https://gunnar.se/2021/07/05/microblog-fever-any.html",
 				"tags": ["Photos"]
