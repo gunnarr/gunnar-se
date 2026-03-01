@@ -1,0 +1,3 @@
+0.0.0.0 a113.dscv.akamai.net
+0.0.0.0 a-fds.youborafds01.com
+0.0.0.0 tvm-tv4-freewheel.akamaized.net
